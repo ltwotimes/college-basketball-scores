@@ -1,0 +1,73 @@
+======== Starting scrape at Fri 11/07/2025 22:18:19.72 ======== 
+Traceback (most recent call last):
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 281, in <module>
+    run_auto_scrape(datetime(2000, 11, 9), datetime(2025, 11, 5))
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 255, in run_auto_scrape
+    print(f"\nStarting rebuild: {start_date.date()} \u2192 {end_date.date()}  ({total_days} days)\n")
+  File "C:\Users\lanza\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 31: character maps to <undefined>
+======== Finished run at Fri 11/07/2025 22:18:20.83 ======== 
+======== Starting scrape at Fri 11/07/2025 22:22:53.38 ======== 
+^C======== Starting scrape at Fri 11/07/2025 22:23:10.50 ======== 
+^C======== Starting scrape at Fri 11/07/2025 22:24:47.80 ======== 
+
+Starting rebuild: 2000-11-09 -> 2025-11-05  (9128 days)
+
+Already scraped: 255 unique days
+
+[2000-11-09] Skipping (already scraped)
+  Sleeping 21.9s before next day...
+
+[2000-11-10] Skipping (already scraped)
+  Sleeping 24.8s before next day...
+
+[2000-11-11] Skipping (already scraped)
+  Sleeping 21.3s before next day...
+
+[2000-11-12] Fetching https://www.sports-reference.com/cbb/boxscores/?month=11&day=12&year=2000
+  Found 0 boxes on page
+  No valid games found for 2000-11-12
+Traceback (most recent call last):
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 281, in <module>
+    run_auto_scrape(datetime(2000, 11, 9), datetime(2025, 11, 5))
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 266, in run_auto_scrape
+    df_day = scrape_day(current)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 207, in scrape_day
+    with open("scrape_log.txt", "a", encoding="utf-8") as logf:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'scrape_log.txt'
+======== Finished run at Fri 11/07/2025 22:25:57.48 ======== 
+======== Starting scrape at Fri 11/07/2025 22:28:07.10 ======== 
+
+Starting rebuild: 2000-11-09 -> 2025-11-05  (9128 days)
+
+Already scraped: 255 unique days
+
+[2000-11-09] Skipping (already scraped)
+  Sleeping 21.8s before next day...
+
+[2000-11-10] Skipping (already scraped)
+  Sleeping 20.5s before next day...
+
+[2000-11-11] Skipping (already scraped)
+  Sleeping 25.7s before next day...
+
+[2000-11-12] Fetching https://www.sports-reference.com/cbb/boxscores/?month=11&day=12&year=2000
+  Found 0 boxes on page
+  No valid games found for 2000-11-12
+Traceback (most recent call last):
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 281, in <module>
+    run_auto_scrape(datetime(2000, 11, 9), datetime(2025, 11, 5))
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 266, in run_auto_scrape
+    df_day = scrape_day(current)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lanza\OneDrive\Desktop\college-basketball-scores\final_scores_scraper_auto.py", line 207, in scrape_day
+    with open("scrape_log.txt", "a", encoding="utf-8") as logf:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'scrape_log.txt'
+======== Finished run at Fri 11/07/2025 22:29:15.89 ======== 
+======== Starting scrape at Fri 11/07/2025 22:33:15.29 ======== 
+^C
