@@ -13066,3 +13066,1666 @@ date,home_team,away_team,home,away,total,margin,ot
 2003-02-06,Troy,Georgia State,99,81,180,18,False
 2003-02-06,Washington State,Arizona State,54,87,141,-33,False
 2003-02-06,Youngstown State,Loyola (IL),65,63,128,2,False
+2003-02-07,Brown,Harvard,91,86,177,5,False
+2003-02-07,Columbia,Princeton,51,68,119,-17,False
+2003-02-07,Cornell,Penn,67,70,137,-3,False
+2003-02-07,Florida Atlantic,Campbell,83,56,139,27,False
+2003-02-07,Iona,Niagara,92,76,168,16,False
+2003-02-07,Lafayette,Colgate,60,56,116,4,False
+2003-02-07,Morris Brown,Bethune-Cookman,65,63,128,2,False
+2003-02-07,St. Peter's,Rider,86,83,169,3,False
+2003-02-07,Yale,Dartmouth,75,64,139,11,False
+2003-02-08,Florida,Alabama,75,56,131,19,False
+2003-02-08,Washington State,Arizona,62,75,137,-13,False
+2003-02-08,Texas A&M,Texas,87,95,182,-8,False
+2003-02-08,Houston,Louisville,55,81,136,-26,False
+2003-02-08,Ole Miss,Kentucky,62,80,142,-18,False
+2003-02-08,Oklahoma,Baylor,91,42,133,49,False
+2003-02-08,Kansas State,Kansas,64,82,146,-18,False
+2003-02-08,Creighton,Bradley,88,65,153,23,False
+2003-02-08,Tennessee,Georgia,78,72,150,6,False
+2003-02-08,Providence,UConn,68,84,152,-16,False
+2003-02-08,West Virginia,Syracuse,80,94,174,-14,False
+2003-02-08,Xavier,Dayton,85,77,162,8,False
+2003-02-08,Mississippi State,Arkansas,84,54,138,30,False
+2003-02-08,Minnesota,Purdue,90,68,158,22,False
+2003-02-08,Akron,Central Michigan,92,99,191,-7,False
+2003-02-08,Alabama A&M,Mississippi Valley State,72,103,175,-31,False
+2003-02-08,UAB,Tulane,66,71,137,-5,False
+2003-02-08,Alabama State,Arkansas-Pine Bluff,57,33,90,24,False
+2003-02-08,Albany (NY),Maine,71,82,153,-11,False
+2003-02-08,Alcorn State,Jackson State,93,91,184,2,False
+2003-02-08,American,Bucknell,70,56,126,14,False
+2003-02-08,Army,Holy Cross,45,53,98,-8,False
+2003-02-08,Auburn,LSU,56,54,110,2,False
+2003-02-08,Austin Peay,Murray State,72,69,141,3,False
+2003-02-08,Belmont,Stetson,80,85,165,-5,False
+2003-02-08,Boise State,Fresno State,52,59,111,-7,False
+2003-02-08,Brown,Dartmouth,61,53,114,8,False
+2003-02-08,Butler,UIC,61,47,108,14,False
+2003-02-08,Cal Poly,Utah State,63,64,127,-1,False
+2003-02-08,Cal State Northridge,Pacific,75,67,142,8,False
+2003-02-08,UC-Irvine,Cal State Fullerton,72,52,124,20,False
+2003-02-08,UCSB,Idaho,52,44,96,8,False
+2003-02-08,Central Connecticut,Mount St. Mary's,80,66,146,14,False
+2003-02-08,UCF,Gardner-Webb,82,59,141,23,False
+2003-02-08,Charleston Southern,High Point,61,56,117,5,False
+2003-02-08,The Citadel,Chattanooga,67,74,141,-7,False
+2003-02-08,Coastal Carolina,Winthrop,72,66,138,6,False
+2003-02-08,Colorado,Iowa State,84,69,153,15,False
+2003-02-08,Colorado State,Utah,66,71,137,-5,False
+2003-02-08,Columbia,Penn,40,47,87,-7,False
+2003-02-08,Cornell,Princeton,49,67,116,-18,False
+2003-02-08,Davidson,Appalachian State,99,86,185,13,False
+2003-02-08,Denver,Middle Tennessee,68,80,148,-12,False
+2003-02-08,DePaul,Charlotte,72,64,136,8,False
+2003-02-08,Drake,Evansville,51,62,113,-11,False
+2003-02-08,Duquesne,La Salle,74,82,156,-8,False
+2003-02-08,East Carolina,Southern Miss,60,57,117,3,False
+2003-02-08,Eastern Illinois,Morehead State,75,69,144,6,False
+2003-02-08,Eastern Michigan,Toledo,76,72,148,4,False
+2003-02-08,Eastern Washington,Montana,87,72,159,15,False
+2003-02-08,FDU,Sacred Heart,82,73,155,9,False
+2003-02-08,Florida A&M,Delaware State,97,77,174,20,False
+2003-02-08,Florida International,Little Rock,45,46,91,-1,False
+2003-02-08,Fordham,St. Joseph's,64,82,146,-18,False
+2003-02-08,Furman,College of Charleston,53,64,117,-11,False
+2003-02-08,Georgetown,UCLA,70,71,141,-1,False
+2003-02-08,Georgia Southern,ETSU,87,83,170,4,False
+2003-02-08,Green Bay,Detroit Mercy,62,71,133,-9,False
+2003-02-08,Hampton,Maryland-Eastern Shore,70,54,124,16,False
+2003-02-08,Hofstra,William & Mary,69,79,148,-10,False
+2003-02-08,Illinois State,Indiana State,60,52,112,8,False
+2003-02-08,Indiana,Michigan State,62,67,129,-5,False
+2003-02-08,Purdue Fort Wayne,Youngstown State,65,63,128,2,False
+2003-02-08,James Madison,Old Dominion,74,66,140,8,False
+2003-02-08,Kent State,Northern Illinois,61,67,128,-6,False
+2003-02-08,Lehigh,Navy,68,46,114,22,False
+2003-02-08,Lipscomb,Centenary (LA),85,75,160,10,False
+2003-02-08,Long Beach State,UC-Riverside,65,68,133,-3,False
+2003-02-08,Louisiana,New Orleans,79,75,154,4,False
+2003-02-08,Louisiana Tech,San Jose State,65,60,125,5,False
+2003-02-08,Loyola Marymount,Gonzaga,80,74,154,6,False
+2003-02-08,Manhattan,Canisius,79,65,144,14,False
+2003-02-08,Marshall,Bowling Green,56,54,110,2,False
+2003-02-08,UMass,Temple,50,61,111,-11,False
+2003-02-08,McNeese State,Stephen F. Austin,63,53,116,10,False
+2003-02-08,Mercer,Georgia State,88,80,168,8,False
+2003-02-08,Miami (FL),Villanova,67,72,139,-5,False
+2003-02-08,Michigan,Iowa,70,62,132,8,False
+2003-02-08,Milwaukee,Cleveland State,86,69,155,17,False
+2003-02-08,Kansas City,Chicago State,59,56,115,3,False
+2003-02-08,Missouri State,Southern Illinois,75,76,151,-1,False
+2003-02-08,New Hampshire,Northeastern,61,75,136,-14,False
+2003-02-08,New Mexico,Air Force,73,59,132,14,False
+2003-02-08,New Mexico State,South Alabama,77,71,148,6,False
+2003-02-08,Nicholls State,Sam Houston,65,76,141,-11,False
+2003-02-08,Norfolk State,Howard,78,88,166,-10,False
+2003-02-08,UNC,Florida State,61,60,121,1,False
+2003-02-08,UNC Asheville,Birmingham-Southern,82,68,150,14,False
+2003-02-08,North Carolina A&T,Coppin State,50,66,116,-16,False
+2003-02-08,UNC Wilmington,Delaware,71,53,124,18,False
+2003-02-08,North Texas,Western Kentucky,70,85,155,-15,False
+2003-02-08,Northern Iowa,Wichita State,80,72,152,8,False
+2003-02-08,Northwestern,Wisconsin,59,74,133,-15,False
+2003-02-08,Oakland,IU Indianapolis,79,78,157,1,False
+2003-02-08,Ohio,Buffalo,61,49,110,12,False
+2003-02-08,Oral Roberts,Southern Utah,86,73,159,13,False
+2003-02-08,Oregon,California,75,86,161,-11,False
+2003-02-08,Pepperdine,Portland,82,62,144,20,False
+2003-02-08,Portland State,Montana State,56,60,116,-4,False
+2003-02-08,Quinnipiac,UMBC,87,66,153,21,False
+2003-02-08,Rhode Island,George Washington,77,72,149,5,False
+2003-02-08,Richmond,St. Bonaventure,55,61,116,-6,False
+2003-02-08,Robert Morris,LIU,85,99,184,-14,False
+2003-02-08,Rutgers,Boston College,75,72,147,3,False
+2003-02-08,Sacramento State,Northern Arizona,45,63,108,-18,False
+2003-02-08,Saint Francis (PA),St. Francis (NY),89,72,161,17,False
+2003-02-08,Saint Mary's,San Francisco,67,68,135,-1,False
+2003-02-08,Samford,Jacksonville,70,43,113,27,False
+2003-02-08,Santa Clara,San Diego,66,78,144,-12,False
+2003-02-08,South Carolina State,Morgan State,78,68,146,10,False
+2003-02-08,South Florida,Saint Louis,71,64,135,7,False
+2003-02-08,Southeast Missouri State,Eastern Kentucky,75,79,154,-4,False
+2003-02-08,Southeastern Louisiana,Lamar,67,57,124,10,False
+2003-02-08,Southern,Grambling,87,68,155,19,False
+2003-02-08,SMU,Hawaii,78,69,147,9,False
+2003-02-08,St. John's (NY),Virginia Tech,54,71,125,-17,False
+2003-02-08,Stony Brook,Vermont,60,66,126,-6,False
+2003-02-08,Tennessee Tech,UT-Martin,87,77,164,10,False
+2003-02-08,Texas A&M-Corpus Christi,Savannah State,96,77,173,19,False
+2003-02-08,TCU,Memphis,69,84,153,-15,False
+2003-02-08,UTEP,Nevada,64,71,135,-7,False
+2003-02-08,Texas-Rio Grande Valley,Central Baptist,105,43,148,62,False
+2003-02-08,UTSA,Louisiana-Monroe,61,71,132,-10,False
+2003-02-08,Texas Southern,Prairie View,104,100,204,4,False
+2003-02-08,Texas State,Northwestern State,95,62,157,33,False
+2003-02-08,Towson,Drexel,50,76,126,-26,False
+2003-02-08,Troy,Jacksonville State,71,51,122,20,False
+2003-02-08,Tulsa,Rice,79,56,135,23,False
+2003-02-08,Vanderbilt,South Carolina,72,84,156,-12,False
+2003-02-08,VCU,George Mason,78,62,140,16,False
+2003-02-08,VMI,Wofford,93,94,187,-1,False
+2003-02-08,Wagner,Monmouth,62,53,115,9,False
+2003-02-08,Washington,Arizona State,77,79,156,-2,False
+2003-02-08,Weber State,Idaho State,87,70,157,17,False
+2003-02-08,Western Carolina,UNC Greensboro,75,63,138,12,False
+2003-02-08,Western Illinois,Valparaiso,62,74,136,-12,False
+2003-02-08,Wright State,Loyola (IL),69,71,140,-2,False
+2003-02-08,Wyoming,BYU,66,74,140,-8,False
+2003-02-08,Yale,Harvard,73,68,141,5,False
+2003-02-09,Notre Dame,Pitt,66,64,130,2,False
+2003-02-09,Georgia Tech,Maryland,90,84,174,6,False
+2003-02-09,Duke,Clemson,65,55,120,10,False
+2003-02-09,Cincinnati,Oklahoma State,61,50,111,11,False
+2003-02-09,Marquette,Wake Forest,68,61,129,7,False
+2003-02-09,Illinois,Ohio State,76,57,133,19,False
+2003-02-09,Missouri,Texas Tech,82,73,155,9,False
+2003-02-09,Oregon State,Stanford,73,84,157,-11,False
+2003-02-09,Ball State,Miami (OH),78,70,148,8,False
+2003-02-09,Binghamton,Boston University,82,85,167,-3,False
+2003-02-09,Fairfield,Niagara,74,85,159,-11,False
+2003-02-09,Iona,Siena,65,64,129,1,False
+2003-02-09,Marist,Loyola (MD),72,65,137,7,False
+2003-02-09,UNLV,USC,73,98,171,-25,False
+2003-02-09,Seton Hall,St. Peter's,97,80,177,17,False
+2003-02-09,Virginia,NC State,61,58,119,3,False
+2003-02-10,Texas,Oklahoma,67,61,128,6,False
+2003-02-10,UConn,Syracuse,75,61,136,14,False
+2003-02-10,Alabama A&M,Arkansas-Pine Bluff,72,54,126,18,False
+2003-02-10,Alabama State,Mississippi Valley State,78,79,157,-1,False
+2003-02-10,Alcorn State,Grambling,88,79,167,9,False
+2003-02-10,Appalachian State,VMI,83,64,147,19,False
+2003-02-10,Bethune-Cookman,Delaware State,48,43,91,5,False
+2003-02-10,Central Michigan,Western Michigan,77,58,135,19,False
+2003-02-10,Charleston Southern,Elon,50,57,107,-7,False
+2003-02-10,Chattanooga,Wofford,83,92,175,-9,False
+2003-02-10,Coastal Carolina,High Point,89,71,160,18,False
+2003-02-10,College of Charleston,The Citadel,84,75,159,9,False
+2003-02-10,Colorado State,BYU,68,77,145,-9,False
+2003-02-10,ETSU,Western Carolina,89,71,160,18,False
+2003-02-10,Eastern Kentucky,Tennessee State,89,72,161,17,False
+2003-02-10,Florida A&M,Morris Brown,88,53,141,35,False
+2003-02-10,Hampton,Howard,65,75,140,-10,False
+2003-02-10,Liberty,UNC Asheville,73,72,145,1,False
+2003-02-10,Lipscomb,Jacksonville State,60,84,144,-24,False
+2003-02-10,Louisiana Tech,Tulsa,93,82,175,11,False
+2003-02-10,McNeese State,UT Arlington,52,56,108,-4,False
+2003-02-10,Milwaukee,Green Bay,78,54,132,24,False
+2003-02-10,New Mexico State,Colorado-Colorado Springs,89,66,155,23,False
+2003-02-10,Norfolk State,Maryland-Eastern Shore,80,63,143,17,False
+2003-02-10,North Carolina A&T,Morgan State,84,89,173,-5,False
+2003-02-10,Quinnipiac,Wagner,70,74,144,-4,False
+2003-02-10,South Carolina State,Coppin State,72,74,146,-2,False
+2003-02-10,Southern,Jackson State,72,79,151,-7,False
+2003-02-10,St. Francis (NY),Central Connecticut,78,55,133,23,False
+2003-02-10,Texas-Rio Grande Valley,Savannah State,76,62,138,14,False
+2003-02-10,Wichita State,Evansville,89,84,173,5,False
+2003-02-10,Winthrop,Birmingham-Southern,67,63,130,4,False
+2003-02-10,Wyoming,Utah,56,69,125,-13,False
+2003-02-11,Kentucky,Georgia,87,67,154,20,False
+2003-02-11,Baylor,Kansas,58,79,137,-21,False
+2003-02-11,Buffalo,Eastern Michigan,90,66,156,24,False
+2003-02-11,Furman,Georgia Southern,77,69,146,8,False
+2003-02-11,Kansas State,Colorado,62,54,116,8,False
+2003-02-11,Lehigh,Bucknell,61,49,110,12,False
+2003-02-11,Louisiana,Denver,72,69,141,3,False
+2003-02-11,Loyola (MD),Siena,58,75,133,-17,False
+2003-02-11,Miami (FL),Virginia Tech,85,65,150,20,False
+2003-02-11,Morehead State,Tennessee Tech,97,89,186,8,False
+2003-02-11,Mount St. Mary's,UMBC,82,74,156,8,False
+2003-02-11,UNC Greensboro,Davidson,77,84,161,-7,False
+2003-02-11,Northern Illinois,Ohio,80,53,133,27,False
+2003-02-11,Penn,Princeton,65,55,120,10,False
+2003-02-11,Prairie View,Texas A&M-Corpus Christi,80,76,156,4,False
+2003-02-11,Rutgers,Georgetown,66,59,125,7,False
+2003-02-11,San Diego State,UNLV,64,79,143,-15,False
+2003-02-11,Stony Brook,Boston University,73,67,140,6,False
+2003-02-11,Toledo,Bowling Green,73,59,132,14,False
+2003-02-11,Villanova,St. John's (NY),50,52,102,-2,False
+2003-02-11,Wisconsin,Michigan State,64,53,117,11,False
+2003-02-12,Saint Louis,Louisville,59,58,117,1,False
+2003-02-12,Florida,Ole Miss,74,55,129,19,False
+2003-02-12,Pitt,West Virginia,82,46,128,36,False
+2003-02-12,DePaul,Marquette,60,73,133,-13,False
+2003-02-12,Creighton,Missouri State,70,67,137,3,False
+2003-02-12,Nebraska,Oklahoma State,70,77,147,-7,False
+2003-02-12,Florida State,Maryland,72,74,146,-2,False
+2003-02-12,Texas A&M,Missouri,73,71,144,2,False
+2003-02-12,UAB,South Florida,85,67,152,18,False
+2003-02-12,Arkansas,Tennessee,62,70,132,-8,False
+2003-02-12,Ball State,Kent State,83,75,158,8,False
+2003-02-12,Bradley,Illinois State,88,76,164,12,False
+2003-02-12,UC-Riverside,Cal State Fullerton,64,74,138,-10,False
+2003-02-12,Campbell,Lipscomb,91,90,181,1,False
+2003-02-12,Canisius,Niagara,68,71,139,-3,False
+2003-02-12,Centenary (LA),Purdue Fort Wayne,76,61,137,15,False
+2003-02-12,Charlotte,Houston,59,55,114,4,False
+2003-02-12,Colgate,Holy Cross,91,92,183,-1,False
+2003-02-12,Dayton,George Washington,87,68,155,19,False
+2003-02-12,Drexel,VCU,59,72,131,-13,False
+2003-02-12,Indiana,Michigan,63,49,112,14,False
+2003-02-12,Indiana State,Drake,63,62,125,1,False
+2003-02-12,Iowa State,Texas Tech,73,88,161,-15,False
+2003-02-12,Lafayette,Army,57,43,100,14,False
+2003-02-12,LSU,Vanderbilt,79,60,139,19,False
+2003-02-12,Maine,Northeastern,75,55,130,20,False
+2003-02-12,Marshall,Akron,74,58,132,16,False
+2003-02-12,UMass,Richmond,54,53,107,1,False
+2003-02-12,Minnesota,Iowa,77,64,141,13,False
+2003-02-12,Navy,American,61,64,125,-3,False
+2003-02-12,New Hampshire,Hartford,72,61,133,11,False
+2003-02-12,UNC,Virginia,81,67,148,14,False
+2003-02-12,NC State,Georgia Tech,63,57,120,6,False
+2003-02-12,Northwestern,Purdue,78,67,145,11,False
+2003-02-12,Old Dominion,UNC Wilmington,71,68,139,3,False
+2003-02-12,Penn State,Ohio State,67,76,143,-9,False
+2003-02-12,Providence,Boston College,69,80,149,-11,False
+2003-02-12,Rhode Island,La Salle,77,65,142,12,False
+2003-02-12,St. Peter's,Marist,72,68,140,4,False
+2003-02-12,South Carolina,Clemson,76,59,135,17,False
+2003-02-12,TCU,Southern Miss,85,78,163,7,False
+2003-02-12,Towson,William & Mary,52,59,111,-7,False
+2003-02-12,Vermont,Binghamton,74,54,128,20,False
+2003-02-12,Winthrop,Gardner-Webb,74,78,152,-4,False
+2003-02-13,Arizona,UCLA,106,70,176,36,False
+2003-02-13,Wake Forest,Duke,94,80,174,14,False
+2003-02-13,California,Washington State,63,53,116,10,False
+2003-02-13,Stanford,Washington,78,69,147,9,False
+2003-02-13,St. Joseph's,Temple,78,59,137,19,False
+2003-02-13,Arizona State,USC,108,78,186,30,False
+2003-02-13,Austin Peay,Tennessee State,71,56,127,15,False
+2003-02-13,Cal State Northridge,Cal Poly,59,62,121,-3,False
+2003-02-13,Chicago State,Valparaiso,70,81,151,-11,False
+2003-02-13,Cleveland State,Youngstown State,86,76,162,10,False
+2003-02-13,Delaware,James Madison,74,71,145,3,False
+2003-02-13,Denver,North Texas,90,84,174,6,False
+2003-02-13,Detroit Mercy,Wright State,68,63,131,5,False
+2003-02-13,Fresno State,Louisiana Tech,77,80,157,-3,False
+2003-02-13,George Mason,Hofstra,70,54,124,16,False
+2003-02-13,Georgia State,Belmont,57,72,129,-15,False
+2003-02-13,Gonzaga,Saint Mary's,73,49,122,24,False
+2003-02-13,Idaho,Long Beach State,75,67,142,8,False
+2003-02-13,IU Indianapolis,Kansas City,73,61,134,12,False
+2003-02-13,Jacksonville,UCF,80,75,155,5,False
+2003-02-13,Jacksonville State,Samford,74,63,137,11,False
+2003-02-13,Lamar,UTSA,53,61,114,-8,False
+2003-02-13,LIU,FDU,68,83,151,-15,False
+2003-02-13,Loyola (IL),Butler,73,63,136,10,False
+2003-02-13,Manhattan,Fairfield,68,70,138,-2,False
+2003-02-13,UMBC,Saint Francis (PA),64,72,136,-8,False
+2003-02-13,Mercer,Morris Brown,90,83,173,7,False
+2003-02-13,Middle Tennessee,Arkansas State,79,55,134,24,False
+2003-02-13,Milwaukee,UIC,81,78,159,3,False
+2003-02-13,Montana,Weber State,72,75,147,-3,False
+2003-02-13,Montana State,Idaho State,73,65,138,8,False
+2003-02-13,Mount St. Mary's,Robert Morris,56,54,110,2,False
+2003-02-13,Murray State,Eastern Illinois,96,77,173,19,False
+2003-02-13,Nevada,SMU,82,64,146,18,False
+2003-02-13,UNC Asheville,Radford,75,68,143,7,False
+2003-02-13,Northern Arizona,Portland State,75,64,139,11,False
+2003-02-13,Northwestern State,McNeese State,57,70,127,-13,False
+2003-02-13,Oakland,Oral Roberts,78,57,135,21,False
+2003-02-13,Pacific,UCSB,52,62,114,-10,False
+2003-02-13,Portland,San Francisco,55,72,127,-17,False
+2003-02-13,Rice,UTEP,72,66,138,6,False
+2003-02-13,Rider,Iona,69,58,127,11,False
+2003-02-13,Sacramento State,Eastern Washington,77,71,148,6,False
+2003-02-13,Sacred Heart,Central Connecticut,58,61,119,-3,False
+2003-02-13,Sam Houston,Texas State,79,71,150,8,False
+2003-02-13,San Diego,Pepperdine,93,98,191,-5,False
+2003-02-13,Santa Clara,Loyola Marymount,61,73,134,-12,False
+2003-02-13,South Alabama,Florida International,46,56,102,-10,False
+2003-02-13,Southern Illinois,Northern Iowa,72,61,133,11,False
+2003-02-13,Southern Utah,Western Illinois,78,75,153,3,False
+2003-02-13,St. Francis (NY),Monmouth,81,71,152,10,False
+2003-02-13,Stephen F. Austin,Nicholls State,84,56,140,28,False
+2003-02-13,Stetson,Florida Atlantic,83,78,161,5,False
+2003-02-13,UT-Martin,Southeast Missouri State,77,61,138,16,False
+2003-02-13,UT Arlington,Southeastern Louisiana,73,68,141,5,False
+2003-02-13,Tulane,Memphis,57,58,115,-1,False
+2003-02-13,Tulsa,Boise State,71,55,126,16,False
+2003-02-13,Utah State,UC-Irvine,58,59,117,-1,False
+2003-02-13,Western Kentucky,Little Rock,70,51,121,19,False
+2003-02-14,Albany (NY),Stony Brook,82,74,156,8,False
+2003-02-14,Bucknell,Navy,59,41,100,18,False
+2003-02-14,Canisius,Loyola (MD),76,64,140,12,False
+2003-02-14,Dartmouth,Cornell,65,56,121,9,False
+2003-02-14,Gardner-Webb,Campbell,81,69,150,12,False
+2003-02-14,Harvard,Columbia,77,63,140,14,False
+2003-02-14,UNLV,BYU,61,54,115,7,False
+2003-02-14,Penn,Yale,68,57,125,11,False
+2003-02-14,Princeton,Brown,73,80,153,-7,False
+2003-02-15,Arizona,USC,86,59,145,27,False
+2003-02-15,Marquette,Louisville,70,73,143,-3,False
+2003-02-15,Kentucky,LSU,68,57,125,11,False
+2003-02-15,Tennessee,Florida,66,59,125,7,False
+2003-02-15,Texas Tech,Oklahoma,58,63,121,-5,False
+2003-02-15,Nebraska,Texas,63,75,138,-12,False
+2003-02-15,Seton Hall,Pitt,73,61,134,12,False
+2003-02-15,Virginia,Duke,59,78,137,-19,False
+2003-02-15,Syracuse,Notre Dame,82,80,162,2,False
+2003-02-15,Wichita State,Creighton,80,74,154,6,False
+2003-02-15,Oklahoma State,Baylor,72,74,146,-2,False
+2003-02-15,Purdue,Illinois,70,61,131,9,False
+2003-02-15,Xavier,Rhode Island,93,70,163,23,False
+2003-02-15,Mississippi State,Ole Miss,68,64,132,4,False
+2003-02-15,Georgia,Vanderbilt,83,70,153,13,False
+2003-02-15,Missouri,Kansas State,71,63,134,8,False
+2003-02-15,California,Washington,58,53,111,5,False
+2003-02-15,Villanova,UConn,79,70,149,9,False
+2003-02-15,Stanford,Washington State,72,54,126,18,False
+2003-02-15,Dayton,St. Joseph's,66,56,122,10,False
+2003-02-15,Air Force,Colorado State,80,75,155,5,False
+2003-02-15,Alabama,Auburn,84,68,152,16,False
+2003-02-15,Alabama State,Alabama A&M,85,74,159,11,False
+2003-02-15,American,Lehigh,69,59,128,10,False
+2003-02-15,Appalachian State,College of Charleston,96,108,204,-12,False
+2003-02-15,Arizona State,UCLA,85,69,154,16,False
+2003-02-15,Arkansas-Pine Bluff,Southern,88,79,167,9,False
+2003-02-15,Army,Colgate,58,68,126,-10,False
+2003-02-15,Austin Peay,Tennessee Tech,58,54,112,4,False
+2003-02-15,Binghamton,Maine,63,62,125,1,False
+2003-02-15,Birmingham-Southern,Elon,76,67,143,9,False
+2003-02-15,Boston College,Miami (FL),76,65,141,11,False
+2003-02-15,Boston University,Hartford,65,59,124,6,False
+2003-02-15,Bowling Green,Western Michigan,65,67,132,-2,False
+2003-02-15,Bradley,Southern Illinois,77,73,150,4,False
+2003-02-15,Buffalo,Ball State,68,80,148,-12,False
+2003-02-15,Cal State Northridge,UCSB,58,67,125,-9,False
+2003-02-15,Charlotte,Cincinnati,74,64,138,10,False
+2003-02-15,Chicago State,Western Illinois,73,75,148,-2,False
+2003-02-15,The Citadel,UNC Greensboro,66,67,133,-1,False
+2003-02-15,Clemson,UNC,80,77,157,3,False
+2003-02-15,Colorado,Texas A&M,98,83,181,15,False
+2003-02-15,Coppin State,Norfolk State,64,52,116,12,False
+2003-02-15,Dartmouth,Columbia,63,49,112,14,False
+2003-02-15,Davidson,ETSU,72,87,159,-15,False
+2003-02-15,Delaware State,North Carolina A&T,76,53,129,23,False
+2003-02-15,Detroit Mercy,Butler,63,66,129,-3,False
+2003-02-15,Drexel,James Madison,78,67,145,11,False
+2003-02-15,Eastern Michigan,Northern Illinois,68,70,138,-2,False
+2003-02-15,Fairfield,Marist,67,56,123,11,False
+2003-02-15,Florida State,Georgia Tech,71,64,135,7,False
+2003-02-15,Fordham,Duquesne,65,74,139,-9,False
+2003-02-15,Fresno State,SMU,76,56,132,20,False
+2003-02-15,Georgia Southern,Wofford,69,68,137,1,False
+2003-02-15,Georgia State,Samford,74,78,152,-4,False
+2003-02-15,Gonzaga,San Francisco,82,71,153,11,False
+2003-02-15,Grambling,Prairie View,61,74,135,-13,False
+2003-02-15,Harvard,Cornell,69,82,151,-13,False
+2003-02-15,Hawaii,San Jose State,54,55,109,-1,False
+2003-02-15,High Point,Winthrop,70,86,156,-16,False
+2003-02-15,Hofstra,UNC Wilmington,70,74,144,-4,False
+2003-02-15,Holy Cross,Lafayette,73,65,138,8,False
+2003-02-15,Howard,Bethune-Cookman,96,68,164,28,False
+2003-02-15,Idaho,UC-Irvine,52,65,117,-13,False
+2003-02-15,UIC,Purdue Fort Wayne,86,64,150,22,False
+2003-02-15,Illinois State,Drake,48,59,107,-11,False
+2003-02-15,Iowa,Penn State,84,71,155,13,False
+2003-02-15,IU Indianapolis,Oral Roberts,76,65,141,11,False
+2003-02-15,Jackson State,Texas Southern,80,63,143,17,False
+2003-02-15,Jacksonville,Florida Atlantic,89,54,143,35,False
+2003-02-15,Jacksonville State,Belmont,92,87,179,5,False
+2003-02-15,Lamar,Texas State,64,53,117,11,False
+2003-02-15,Liberty,Charleston Southern,54,48,102,6,False
+2003-02-15,Loyola (IL),Green Bay,84,73,157,11,False
+2003-02-15,UMBC,Robert Morris,58,64,122,-6,False
+2003-02-15,Maryland-Eastern Shore,Florida A&M,60,62,122,-2,False
+2003-02-15,Memphis,UAB,94,70,164,24,False
+2003-02-15,Mercer,Troy,83,80,163,3,False
+2003-02-15,Miami (OH),Marshall,69,49,118,20,False
+2003-02-15,Michigan,Ohio State,70,54,124,16,False
+2003-02-15,Michigan State,Northwestern,64,51,115,13,False
+2003-02-15,Middle Tennessee,Little Rock,58,74,132,-16,False
+2003-02-15,Mississippi Valley State,Alcorn State,73,65,138,8,False
+2003-02-15,Missouri State,Indiana State,65,51,116,14,False
+2003-02-15,Monmouth,LIU,78,70,148,8,False
+2003-02-15,Montana,Idaho State,69,65,134,4,False
+2003-02-15,Montana State,Weber State,58,70,128,-12,False
+2003-02-15,Morehead State,Eastern Kentucky,88,87,175,1,False
+2003-02-15,Morgan State,Hampton,59,75,134,-16,False
+2003-02-15,Mount St. Mary's,Saint Francis (PA),69,79,148,-10,False
+2003-02-15,Murray State,Southeast Missouri State,71,65,136,6,False
+2003-02-15,Nevada,Louisiana Tech,97,99,196,-2,False
+2003-02-15,New Mexico,Wyoming,91,103,194,-12,False
+2003-02-15,New Mexico State,Louisiana,58,69,127,-11,False
+2003-02-15,New Orleans,Florida International,49,48,97,1,False
+2003-02-15,Northeastern,Vermont,76,59,135,17,False
+2003-02-15,Northern Arizona,Eastern Washington,75,78,153,-3,False
+2003-02-15,Northwestern State,Louisiana-Monroe,63,75,138,-12,False
+2003-02-15,Oakland,Kansas City,100,79,179,21,False
+2003-02-15,Ohio,Kent State,74,71,145,3,False
+2003-02-15,Oregon State,Oregon,63,80,143,-17,False
+2003-02-15,Pacific,Cal Poly,64,67,131,-3,False
+2003-02-15,Penn,Brown,73,66,139,7,False
+2003-02-15,Portland,Saint Mary's,59,71,130,-12,False
+2003-02-15,Princeton,Yale,56,49,105,7,False
+2003-02-15,Radford,Coastal Carolina,65,58,123,7,False
+2003-02-15,Rice,Boise State,72,62,134,10,False
+2003-02-15,Rutgers,West Virginia,46,52,98,-6,False
+2003-02-15,Sacramento State,Portland State,72,58,130,14,False
+2003-02-15,Sacred Heart,Quinnipiac,69,78,147,-9,False
+2003-02-15,Saint Louis,East Carolina,56,42,98,14,False
+2003-02-15,Sam Houston,UTSA,72,50,122,22,False
+2003-02-15,San Diego,Loyola Marymount,73,51,124,22,False
+2003-02-15,South Carolina,Arkansas,72,65,137,7,False
+2003-02-15,South Florida,Houston,62,47,109,15,False
+2003-02-15,Southern Miss,DePaul,69,74,143,-5,False
+2003-02-15,Southern Utah,Valparaiso,61,69,130,-8,False
+2003-02-15,St. Bonaventure,UMass,76,82,158,-6,False
+2003-02-15,St. Francis (NY),FDU,85,80,165,5,False
+2003-02-15,St. John's (NY),Providence,59,69,128,-10,False
+2003-02-15,Stephen F. Austin,Southeastern Louisiana,67,51,118,16,False
+2003-02-15,Stetson,UCF,82,90,172,-8,False
+2003-02-15,Temple,NC State,76,54,130,22,False
+2003-02-15,UT-Martin,Eastern Illinois,84,85,169,-1,False
+2003-02-15,UT Arlington,Nicholls State,74,46,120,28,False
+2003-02-15,Texas-Rio Grande Valley,Texas A&M-Corpus Christi,54,58,112,-4,False
+2003-02-15,Toledo,Central Michigan,64,66,130,-2,False
+2003-02-15,Towson,Old Dominion,51,73,124,-22,False
+2003-02-15,Tulane,TCU,84,78,162,6,False
+2003-02-15,Tulsa,UTEP,81,58,139,23,False
+2003-02-15,Utah,San Diego State,76,62,138,14,False
+2003-02-15,Utah State,Long Beach State,95,61,156,34,False
+2003-02-15,VCU,Delaware,71,66,137,5,False
+2003-02-15,VMI,Western Carolina,58,61,119,-3,False
+2003-02-15,Virginia Tech,Georgetown,73,85,158,-12,False
+2003-02-15,Western Kentucky,Arkansas State,69,63,132,6,False
+2003-02-15,William & Mary,George Mason,43,60,103,-17,False
+2003-02-15,Wisconsin,Indiana,71,59,130,12,False
+2003-02-15,Wright State,Cleveland State,76,63,139,13,False
+2003-02-15,Youngstown State,Milwaukee,61,86,147,-25,False
+2003-02-16,Kansas,Iowa State,70,51,121,19,False
+2003-02-16,Evansville,Northern Iowa,83,63,146,20,False
+2003-02-16,George Washington,Richmond,64,50,114,14,False
+2003-02-16,Iona,Manhattan,80,77,157,3,False
+2003-02-16,New Hampshire,Albany (NY),79,87,166,-8,False
+2003-02-16,Niagara,Loyola (MD),79,66,145,13,False
+2003-02-16,Santa Clara,Pepperdine,73,61,134,12,False
+2003-02-17,Texas,Texas Tech,77,65,142,12,False
+2003-02-17,Florida,New Orleans,77,48,125,29,False
+2003-02-17,Maryland,Wake Forest,90,67,157,23,False
+2003-02-17,Utah,UNLV,86,80,166,6,False
+2003-02-17,Air Force,Wyoming,57,64,121,-7,False
+2003-02-17,Arkansas-Pine Bluff,Alcorn State,68,74,142,-6,False
+2003-02-17,BYU,San Diego State,66,64,130,2,False
+2003-02-17,College of Charleston,Western Carolina,79,63,142,16,False
+2003-02-17,Eastern Kentucky,Tennessee Tech,68,76,144,-8,False
+2003-02-17,Fairfield,Rider,56,58,114,-2,False
+2003-02-17,Furman,The Citadel,77,60,137,17,False
+2003-02-17,Grambling,Texas Southern,69,60,129,9,False
+2003-02-17,Jackson State,Prairie View,75,70,145,5,False
+2003-02-17,Liberty,Coastal Carolina,79,73,152,6,False
+2003-02-17,Lipscomb,Stetson,87,64,151,23,False
+2003-02-17,Maryland-Eastern Shore,Bethune-Cookman,48,57,105,-9,False
+2003-02-17,Mercer,Savannah State,97,72,169,25,False
+2003-02-17,Mississippi Valley State,Southern,77,69,146,8,False
+2003-02-17,New Mexico,Colorado State,82,72,154,10,False
+2003-02-17,Radford,Charleston Southern,59,57,116,2,False
+2003-02-17,St. Peter's,Marist,86,91,177,-5,False
+2003-02-17,Sam Houston,UT Arlington,56,52,108,4,False
+2003-02-18,Georgetown,Pitt,67,82,149,-15,False
+2003-02-18,West Virginia,Notre Dame,55,56,111,-1,False
+2003-02-18,Syracuse,St. John's (NY),66,60,126,6,False
+2003-02-18,Illinois,Michigan State,70,40,110,30,False
+2003-02-18,Alabama,Georgia,69,74,143,-5,False
+2003-02-18,Cincinnati,Saint Louis,55,58,113,-3,False
+2003-02-18,Coppin State,Hampton,51,65,116,-14,False
+2003-02-18,East Carolina,DePaul,63,77,140,-14,False
+2003-02-18,Georgia Southern,Davidson,76,85,161,-9,False
+2003-02-18,Georgia State,Jacksonville,71,69,140,2,False
+2003-02-18,Houston,Southern Miss,46,42,88,4,False
+2003-02-18,Howard,Florida A&M,74,68,142,6,False
+2003-02-18,Purdue Fort Wayne,Centenary (LA),90,76,166,14,False
+2003-02-18,Kent State,Buffalo,98,55,153,43,False
+2003-02-18,LIU,Quinnipiac,62,70,132,-8,False
+2003-02-18,Missouri,Nebraska,67,50,117,17,False
+2003-02-18,Morgan State,Norfolk State,63,60,123,3,False
+2003-02-18,UNC,North Carolina A&T,93,57,150,36,False
+2003-02-18,UNC Greensboro,ETSU,73,75,148,-2,False
+2003-02-18,NC State,Florida State,71,60,131,11,False
+2003-02-18,Providence,Miami (FL),73,63,136,10,False
+2003-02-18,Siena,Niagara,84,71,155,13,False
+2003-02-18,Southeast Missouri State,Western Illinois,53,52,105,1,False
+2003-02-18,TCU,UAB,85,88,173,-3,False
+2003-02-18,UTEP,Texas A&M-Corpus Christi,72,77,149,-5,False
+2003-02-18,Tulane,South Florida,68,65,133,3,False
+2003-02-18,Virginia,Clemson,64,73,137,-9,False
+2003-02-18,VMI,Chattanooga,52,77,129,-25,False
+2003-02-18,Wagner,Central Connecticut,61,58,119,3,False
+2003-02-18,Western Michigan,Toledo,67,64,131,3,False
+2003-02-18,Wofford,Appalachian State,72,76,148,-4,False
+2003-02-19,Arkansas,Kentucky,50,66,116,-16,False
+2003-02-19,Louisville,Memphis,73,80,153,-7,False
+2003-02-19,Oklahoma,Oklahoma State,64,48,112,16,False
+2003-02-19,Kansas,Colorado,94,87,181,7,False
+2003-02-19,Duke,Maryland,75,70,145,5,False
+2003-02-19,La Salle,Xavier,71,93,164,-22,False
+2003-02-19,Creighton,Indiana State,77,54,131,23,False
+2003-02-19,Auburn,Mississippi State,46,63,109,-17,False
+2003-02-19,Purdue,Michigan,67,78,145,-11,False
+2003-02-19,Richmond,Dayton,63,70,133,-7,False
+2003-02-19,Alabama A&M,Morris Brown,92,58,150,34,False
+2003-02-19,Birmingham-Southern,High Point,63,62,125,1,False
+2003-02-19,Boston College,Virginia Tech,87,69,156,18,False
+2003-02-19,Boston University,Maine,65,54,119,11,False
+2003-02-19,Central Michigan,Ball State,94,92,186,2,False
+2003-02-19,UConn,Rutgers,87,70,157,17,False
+2003-02-19,Delaware,Hofstra,82,91,173,-9,False
+2003-02-19,Delaware State,South Carolina State,83,78,161,5,False
+2003-02-19,Drake,Wichita State,70,80,150,-10,False
+2003-02-19,Duquesne,George Washington,78,73,151,5,False
+2003-02-19,Elon,UNC Asheville,75,72,147,3,False
+2003-02-19,Florida International,Western Kentucky,58,71,129,-13,False
+2003-02-19,Gonzaga,Portland,68,72,140,-4,False
+2003-02-19,Green Bay,Youngstown State,69,53,122,16,False
+2003-02-19,Hartford,Stony Brook,72,64,136,8,False
+2003-02-19,Hawaii,Nevada,73,71,144,2,False
+2003-02-19,Illinois State,Evansville,65,61,126,4,False
+2003-02-19,Iowa,Indiana,63,79,142,-16,False
+2003-02-19,Jacksonville State,Lipscomb,96,72,168,24,False
+2003-02-19,James Madison,Towson,87,56,143,31,False
+2003-02-19,Kansas State,Baylor,57,66,123,-9,False
+2003-02-19,Long Beach State,Pacific,70,61,131,9,False
+2003-02-19,UNC Wilmington,George Mason,75,55,130,20,False
+2003-02-19,Northern Iowa,Bradley,84,80,164,4,False
+2003-02-19,Northwestern,Minnesota,61,73,134,-12,False
+2003-02-19,Ohio,Eastern Michigan,73,76,149,-3,False
+2003-02-19,Old Dominion,Drexel,57,62,119,-5,False
+2003-02-19,Penn State,Wisconsin,58,57,115,1,False
+2003-02-19,San Jose State,Fresno State,70,74,144,-4,False
+2003-02-19,Savannah State,Texas-Rio Grande Valley,39,45,84,-6,False
+2003-02-19,South Carolina,Tennessee,77,63,140,14,False
+2003-02-19,Southern,West Alabama,77,62,139,15,False
+2003-02-19,Southern Illinois,Missouri State,74,69,143,5,False
+2003-02-19,SMU,Tulsa,70,77,147,-7,False
+2003-02-19,St. Bonaventure,Fordham,83,65,148,18,False
+2003-02-19,Temple,Rhode Island,69,64,133,5,False
+2003-02-19,Texas A&M,Iowa State,66,54,120,12,False
+2003-02-19,Vermont,New Hampshire,85,68,153,17,False
+2003-02-19,VCU,William & Mary,93,73,166,20,False
+2003-02-19,Wofford,Toccoa Falls,114,61,175,53,False
+2003-02-20,Georgia Tech,Wake Forest,67,75,142,-8,False
+2003-02-20,Marquette,Charlotte,75,67,142,8,False
+2003-02-20,UCLA,California,76,75,151,1,False
+2003-02-20,USC,Stanford,67,73,140,-6,False
+2003-02-20,Akron,Miami (OH),53,55,108,-2,False
+2003-02-20,Albany (NY),Binghamton,59,76,135,-17,False
+2003-02-20,Little Rock,New Mexico State,72,64,136,8,False
+2003-02-20,Arkansas State,Louisiana,84,72,156,12,False
+2003-02-20,Belmont,Campbell,74,56,130,18,False
+2003-02-20,Butler,Wright State,79,64,143,15,False
+2003-02-20,Cal Poly,UCSB,66,63,129,3,False
+2003-02-20,Cal State Fullerton,Utah State,41,62,103,-21,False
+2003-02-20,UC-Irvine,Cal State Northridge,64,57,121,7,False
+2003-02-20,UC-Riverside,Idaho,64,68,132,-4,False
+2003-02-20,Central Connecticut,LIU,95,53,148,42,False
+2003-02-20,UCF,Troy,72,77,149,-5,False
+2003-02-20,Cleveland State,UIC,74,87,161,-13,False
+2003-02-20,Denver,South Alabama,77,50,127,27,False
+2003-02-20,Eastern Illinois,Austin Peay,80,76,156,4,False
+2003-02-20,Eastern Kentucky,Murray State,73,71,144,2,False
+2003-02-20,Florida Atlantic,Mercer,72,87,159,-15,False
+2003-02-20,Idaho State,Northern Arizona,90,76,166,14,False
+2003-02-20,Purdue Fort Wayne,Chicago State,75,71,146,4,False
+2003-02-20,Lamar,Stephen F. Austin,73,77,150,-4,False
+2003-02-20,Louisiana Tech,Rice,63,65,128,-2,False
+2003-02-20,Loyola (IL),Detroit Mercy,76,64,140,12,False
+2003-02-20,McNeese State,UTSA,72,66,138,6,False
+2003-02-20,Morehead State,UT-Martin,104,76,180,28,False
+2003-02-20,Nicholls State,Northwestern State,53,62,115,-9,False
+2003-02-20,North Texas,New Orleans,73,76,149,-3,False
+2003-02-20,Quinnipiac,St. Francis (NY),80,61,141,19,False
+2003-02-20,Robert Morris,FDU,69,56,125,13,False
+2003-02-20,Sacred Heart,UMBC,68,57,125,11,False
+2003-02-20,Saint Francis (PA),Monmouth,70,72,142,-2,False
+2003-02-20,Samford,Gardner-Webb,63,54,117,9,False
+2003-02-20,Southeastern Louisiana,Louisiana-Monroe,58,70,128,-12,False
+2003-02-20,Valparaiso,Oakland,81,65,146,16,False
+2003-02-20,Wagner,Mount St. Mary's,57,55,112,2,False
+2003-02-20,Washington,Oregon State,72,80,152,-8,False
+2003-02-20,Washington State,Oregon,70,89,159,-19,False
+2003-02-20,Weber State,Sacramento State,88,65,153,23,False
+2003-02-20,Western Illinois,IU Indianapolis,59,75,134,-16,False
+2003-02-20,Winthrop,Liberty,84,72,156,12,False
+2003-02-21,Army,Lehigh,52,59,111,-7,False
+2003-02-21,Brown,Columbia,83,70,153,13,False
+2003-02-21,Colgate,Navy,73,52,125,21,False
+2003-02-21,Dartmouth,Princeton,60,70,130,-10,False
+2003-02-21,Georgia State,Jacksonville State,76,78,154,-2,False
+2003-02-21,Harvard,Penn,66,82,148,-16,False
+2003-02-21,Holy Cross,American,68,66,134,2,False
+2003-02-21,Iona,St. Peter's,98,89,187,9,False
+2003-02-21,Lafayette,Bucknell,53,70,123,-17,False
+2003-02-21,Rider,Loyola (MD),50,44,94,6,False
+2003-02-21,Saint Mary's,San Diego,57,75,132,-18,False
+2003-02-21,San Francisco,Santa Clara,78,65,143,13,False
+2003-02-21,Yale,Cornell,70,52,122,18,False
+2003-02-22,Arizona State,Arizona,72,92,164,-20,False
+2003-02-22,Oklahoma State,Texas,82,77,159,5,False
+2003-02-22,Cincinnati,Louisville,101,80,181,21,False
+2003-02-22,Vanderbilt,Florida,74,77,151,-3,False
+2003-02-22,Duke,NC State,79,68,147,11,False
+2003-02-22,Pitt,Rutgers,86,65,151,21,False
+2003-02-22,TCU,Marquette,68,79,147,-11,False
+2003-02-22,Notre Dame,Virginia Tech,98,76,174,22,False
+2003-02-22,Maryland,UNC,96,56,152,40,False
+2003-02-22,Dayton,Xavier,72,73,145,-1,False
+2003-02-22,Creighton,Fresno State,67,66,133,1,False
+2003-02-22,USC,California,82,84,166,-2,False
+2003-02-22,Illinois,Northwestern,73,61,134,12,False
+2003-02-22,UCLA,Stanford,84,93,177,-9,False
+2003-02-22,Georgia,South Carolina,79,66,145,13,False
+2003-02-22,Ohio State,Purdue,52,44,96,8,False
+2003-02-22,UAB,Houston,80,52,132,28,False
+2003-02-22,Albany (NY),Hartford,53,67,120,-14,False
+2003-02-22,Alcorn State,Alabama A&M,79,71,150,8,False
+2003-02-22,Appalachian State,Davidson,81,94,175,-13,False
+2003-02-22,Little Rock,Louisiana,81,85,166,-4,False
+2003-02-22,Arkansas State,New Mexico State,67,82,149,-15,False
+2003-02-22,Baylor,Nebraska,78,64,142,14,False
+2003-02-22,Belmont,Gardner-Webb,81,73,154,8,False
+2003-02-22,Bethune-Cookman,Norfolk State,48,61,109,-13,False
+2003-02-22,Boise State,UTEP,69,52,121,17,False
+2003-02-22,Bradley,Missouri State,52,54,106,-2,False
+2003-02-22,Brown,Cornell,70,62,132,8,False
+2003-02-22,Buffalo,Miami (OH),35,63,98,-28,False
+2003-02-22,Cal State Fullerton,Idaho,62,59,121,3,False
+2003-02-22,UC-Irvine,Pacific,78,73,151,5,False
+2003-02-22,UC-Riverside,Utah State,72,65,137,7,False
+2003-02-22,UCSB,Detroit Mercy,59,75,134,-16,False
+2003-02-22,UCF,Mercer,66,69,135,-3,False
+2003-02-22,Chattanooga,College of Charleston,79,78,157,1,False
+2003-02-22,Chicago State,Southern Utah,54,70,124,-16,False
+2003-02-22,The Citadel,Georgia Southern,63,64,127,-1,False
+2003-02-22,Clemson,Florida State,74,60,134,14,False
+2003-02-22,Cleveland State,Loyola (IL),72,77,149,-5,False
+2003-02-22,Coastal Carolina,UNC Asheville,68,55,123,13,False
+2003-02-22,Colorado,Missouri,89,68,157,21,False
+2003-02-22,UConn,St. John's (NY),77,69,146,8,False
+2003-02-22,Dartmouth,Penn,52,67,119,-15,False
+2003-02-22,Delaware,Old Dominion,73,63,136,10,False
+2003-02-22,Delaware State,Coppin State,69,65,134,4,False
+2003-02-22,DePaul,Saint Louis,61,62,123,-1,False
+2003-02-22,East Carolina,Charlotte,66,71,137,-5,False
+2003-02-22,Eastern Kentucky,UT-Martin,70,78,148,-8,False
+2003-02-22,Elon,Radford,84,74,158,10,False
+2003-02-22,Evansville,Drake,73,81,154,-8,False
+2003-02-22,Florida A&M,Hampton,80,83,163,-3,False
+2003-02-22,Florida Atlantic,Troy,66,76,142,-10,False
+2003-02-22,Florida International,Middle Tennessee,70,80,150,-10,False
+2003-02-22,George Mason,James Madison,52,57,109,-5,False
+2003-02-22,George Washington,La Salle,76,67,143,9,False
+2003-02-22,Gonzaga,Tulsa,69,60,129,9,False
+2003-02-22,Harvard,Princeton,66,67,133,-1,False
+2003-02-22,Hofstra,VCU,77,80,157,-3,False
+2003-02-22,Idaho State,Sacramento State,90,83,173,7,False
+2003-02-22,UIC,Bowling Green,83,72,155,11,False
+2003-02-22,Indiana State,Wichita State,63,72,135,-9,False
+2003-02-22,Iowa,Wisconsin,53,61,114,-8,False
+2003-02-22,Iowa State,Kansas State,64,61,125,3,False
+2003-02-22,Purdue Fort Wayne,Wright State,84,61,145,23,False
+2003-02-22,Jackson State,Grambling,80,75,155,5,False
+2003-02-22,Jacksonville,Stetson,73,59,132,14,False
+2003-02-22,Kent State,Hawaii,78,79,157,-1,False
+2003-02-22,Lamar,UT Arlington,60,58,118,2,False
+2003-02-22,Liberty,Birmingham-Southern,50,53,103,-3,False
+2003-02-22,Long Beach State,Cal State Northridge,71,77,148,-6,False
+2003-02-22,Louisiana-Monroe,Northwestern State,78,83,161,-5,False
+2003-02-22,LSU,Arkansas,75,56,131,19,False
+2003-02-22,Louisiana Tech,Northern Iowa,71,76,147,-5,False
+2003-02-22,Marshall,Illinois State,53,57,110,-4,False
+2003-02-22,Miami (FL),Georgetown,72,74,146,-2,False
+2003-02-22,Minnesota,Penn State,77,62,139,15,False
+2003-02-22,Ole Miss,Auburn,75,80,155,-5,False
+2003-02-22,Montana,Montana State,66,63,129,3,False
+2003-02-22,Morehead State,Murray State,77,74,151,3,False
+2003-02-22,UNLV,New Mexico,74,69,143,5,False
+2003-02-22,Niagara,Fairfield,83,79,162,4,False
+2003-02-22,North Carolina A&T,Maryland-Eastern Shore,79,91,170,-12,False
+2003-02-22,North Texas,South Alabama,60,70,130,-10,False
+2003-02-22,Northern Illinois,Central Michigan,75,87,162,-12,False
+2003-02-22,Ohio,Western Michigan,79,72,151,7,False
+2003-02-22,Oral Roberts,Kansas City,86,91,177,-5,False
+2003-02-22,Pepperdine,Loyola Marymount,94,71,165,23,False
+2003-02-22,Portland State,Eastern Washington,58,72,130,-14,False
+2003-02-22,Prairie View,Mississippi Valley State,72,75,147,-3,False
+2003-02-22,Providence,Villanova,70,60,130,10,False
+2003-02-22,Richmond,Rhode Island,70,69,139,1,False
+2003-02-22,Robert Morris,Monmouth,67,69,136,-2,False
+2003-02-22,Sacred Heart,Mount St. Mary's,78,70,148,8,False
+2003-02-22,Saint Francis (PA),FDU,68,66,134,2,False
+2003-02-22,St. Joseph's,St. Bonaventure,76,72,148,4,False
+2003-02-22,Sam Houston,Stephen F. Austin,69,62,131,7,False
+2003-02-22,Samford,Campbell,63,44,107,19,False
+2003-02-22,San Diego State,Air Force,67,53,120,14,False
+2003-02-22,San Francisco,San Diego,63,81,144,-18,False
+2003-02-22,San Jose State,Nevada,66,74,140,-8,False
+2003-02-22,South Carolina State,Howard,90,81,171,9,False
+2003-02-22,South Florida,Memphis,66,73,139,-7,False
+2003-02-22,Southeast Missouri State,Austin Peay,56,63,119,-7,False
+2003-02-22,Southeastern Louisiana,McNeese State,74,67,141,7,False
+2003-02-22,Southern,Alabama State,57,54,111,3,False
+2003-02-22,Southern Illinois,Milwaukee,66,64,130,2,False
+2003-02-22,SMU,Rice,73,63,136,10,False
+2003-02-22,Southern Miss,Tulane,76,72,148,4,False
+2003-02-22,St. Francis (NY),LIU,142,140,282,2,False
+2003-02-22,Tennessee,Alabama,71,76,147,-5,False
+2003-02-22,Tennessee State,Tennessee Tech,72,101,173,-29,False
+2003-02-22,Texas A&M-Corpus Christi,Centenary (LA),73,69,142,4,False
+2003-02-22,Texas Southern,Arkansas-Pine Bluff,54,58,112,-4,False
+2003-02-22,Texas Tech,Texas A&M,70,69,139,1,False
+2003-02-22,Toledo,Eastern Michigan,73,76,149,-3,False
+2003-02-22,Towson,UNC Wilmington,51,75,126,-24,False
+2003-02-22,Valparaiso,IU Indianapolis,77,71,148,6,False
+2003-02-22,Vermont,Boston University,60,53,113,7,False
+2003-02-22,VMI,UNC Greensboro,61,60,121,1,False
+2003-02-22,Wagner,UMBC,76,65,141,11,False
+2003-02-22,Washington,Oregon,78,66,144,12,False
+2003-02-22,Washington State,Oregon State,75,71,146,4,False
+2003-02-22,Weber State,Northern Arizona,79,64,143,15,False
+2003-02-22,West Virginia,Seton Hall,64,68,132,-4,False
+2003-02-22,Western Carolina,ETSU,86,89,175,-3,False
+2003-02-22,Western Illinois,Oakland,79,89,168,-10,False
+2003-02-22,Western Kentucky,Ball State,84,79,163,5,False
+2003-02-22,William & Mary,Drexel,62,78,140,-16,False
+2003-02-22,Winthrop,Charleston Southern,75,56,131,19,False
+2003-02-22,Wofford,Furman,66,69,135,-3,False
+2003-02-22,Wyoming,Colorado State,62,60,122,2,False
+2003-02-22,Yale,Columbia,71,59,130,12,False
+2003-02-22,Youngstown State,Butler,60,69,129,-9,False
+2003-02-23,Kentucky,Mississippi State,70,62,132,8,False
+2003-02-23,Oklahoma,Kansas,77,70,147,7,False
+2003-02-23,Wake Forest,Virginia,75,71,146,4,False
+2003-02-23,Michigan State,Syracuse,75,76,151,-1,False
+2003-02-23,Akron,Ohio,84,82,166,2,False
+2003-02-23,Army,Bucknell,65,66,131,-1,False
+2003-02-23,Binghamton,Northeastern,66,54,120,12,False
+2003-02-23,Colgate,American,60,59,119,1,False
+2003-02-23,Denver,New Orleans,68,63,131,5,False
+2003-02-23,Fordham,Temple,77,99,176,-22,False
+2003-02-23,Green Bay,Northern Michigan,72,67,139,5,False
+2003-02-23,Holy Cross,Navy,63,42,105,21,False
+2003-02-23,Lafayette,Lehigh,86,68,154,18,False
+2003-02-23,Loyola (MD),Manhattan,49,83,132,-34,False
+2003-02-23,Maine,Stony Brook,74,56,130,18,False
+2003-02-23,Marist,Iona,75,74,149,1,False
+2003-02-23,UMass,Duquesne,70,55,125,15,False
+2003-02-23,Rider,Siena,61,72,133,-11,False
+2003-02-23,Saint Mary's,Santa Clara,56,57,113,-1,False
+2003-02-23,St. Peter's,Canisius,79,60,139,19,False
+2003-02-24,Notre Dame,UConn,79,87,166,-8,False
+2003-02-24,Oklahoma State,Texas Tech,57,62,119,-5,False
+2003-02-24,Utah,BYU,71,64,135,7,False
+2003-02-24,Alcorn State,Alabama State,69,50,119,19,False
+2003-02-24,Bethune-Cookman,Hampton,69,76,145,-7,False
+2003-02-24,Central Connecticut,Quinnipiac,66,68,134,-2,False
+2003-02-24,Charleston Southern,UNC Asheville,76,68,144,8,False
+2003-02-24,The Citadel,VMI,49,58,107,-9,False
+2003-02-24,Cleveland State,Butler,75,79,154,-4,False
+2003-02-24,Delaware State,Morgan State,80,53,133,27,False
+2003-02-24,ETSU,Furman,71,84,155,-13,False
+2003-02-24,Florida A&M,Norfolk State,72,62,134,10,False
+2003-02-24,George Mason,Old Dominion,69,52,121,17,False
+2003-02-24,Georgia Southern,Chattanooga,99,97,196,2,False
+2003-02-24,La Salle,St. Joseph's,53,75,128,-22,False
+2003-02-24,Louisiana,North Texas,94,60,154,34,False
+2003-02-24,Murray State,Tennessee State,100,79,179,21,False
+2003-02-24,UNLV,Air Force,74,70,144,4,False
+2003-02-24,North Carolina A&T,Howard,81,105,186,-24,False
+2003-02-24,UNC Greensboro,Appalachian State,68,71,139,-3,False
+2003-02-24,Prairie View,Arkansas-Pine Bluff,66,53,119,13,False
+2003-02-24,Radford,Birmingham-Southern,57,67,124,-10,False
+2003-02-24,Robert Morris,Saint Francis (PA),61,58,119,3,False
+2003-02-24,San Diego State,New Mexico,89,73,162,16,False
+2003-02-24,Savannah State,Morris Brown,67,58,125,9,False
+2003-02-24,South Carolina State,Maryland-Eastern Shore,78,58,136,20,False
+2003-02-24,Southern,Alabama A&M,94,93,187,1,False
+2003-02-24,Texas-Rio Grande Valley,Centenary (LA),76,78,154,-2,False
+2003-02-24,UTSA,Texas State,83,73,156,10,False
+2003-02-24,Texas Southern,Mississippi Valley State,66,72,138,-6,False
+2003-02-24,Wagner,Sacred Heart,79,71,150,8,False
+2003-02-24,Western Carolina,Wofford,86,77,163,9,False
+2003-02-24,William & Mary,UNC Wilmington,48,72,120,-24,False
+2003-02-25,Florida,South Carolina,96,63,159,33,False
+2003-02-25,Maryland,Clemson,91,52,143,39,False
+2003-02-25,Illinois,Indiana,80,54,134,26,False
+2003-02-25,Buffalo,Toledo,59,66,125,-7,False
+2003-02-25,Central Michigan,Akron,69,70,139,-1,False
+2003-02-25,Davidson,College of Charleston,89,94,183,-5,False
+2003-02-25,Georgetown,Providence,71,56,127,15,False
+2003-02-25,Iowa State,Colorado,81,55,136,26,False
+2003-02-25,Maine,Purdue Fort Wayne,92,67,159,25,False
+2003-02-25,Marshall,Kent State,80,67,147,13,False
+2003-02-25,Miami (OH),Northern Illinois,59,56,115,3,False
+2003-02-25,Nebraska,Kansas State,68,61,129,7,False
+2003-02-25,UNC,NC State,67,75,142,-8,False
+2003-02-25,Ohio State,Iowa,64,71,135,-7,False
+2003-02-25,Rutgers,Seton Hall,52,62,114,-10,False
+2003-02-25,South Alabama,William Carey,123,75,198,48,False
+2003-02-25,Villanova,Miami (FL),75,56,131,19,False
+2003-02-25,Wichita State,Bradley,77,86,163,-9,False
+2003-02-26,Kentucky,Tennessee,80,68,148,12,False
+2003-02-26,Missouri,Oklahoma,67,52,119,15,False
+2003-02-26,Texas,Baylor,82,64,146,18,False
+2003-02-26,Georgia Tech,Duke,58,77,135,-19,False
+2003-02-26,Kansas,Texas A&M,85,45,130,40,False
+2003-02-26,Virginia Tech,Pitt,62,75,137,-13,False
+2003-02-26,Florida State,Wake Forest,56,60,116,-4,False
+2003-02-26,Duquesne,Xavier,78,80,158,-2,False
+2003-02-26,Syracuse,West Virginia,89,51,140,38,False
+2003-02-26,Missouri State,Creighton,58,63,121,-5,False
+2003-02-26,Mississippi State,Alabama,59,55,114,4,False
+2003-02-26,Ole Miss,Georgia,82,89,171,-7,False
+2003-02-26,Memphis,TCU,88,64,152,24,False
+2003-02-26,Rhode Island,Dayton,70,82,152,-12,False
+2003-02-26,UAB,DePaul,77,71,148,6,False
+2003-02-26,Ball State,Bowling Green,94,73,167,21,False
+2003-02-26,Bethune-Cookman,Morris Brown,85,66,151,19,False
+2003-02-26,Boston University,New Hampshire,76,62,138,14,False
+2003-02-26,Charlotte,Southern Miss,77,68,145,9,False
+2003-02-26,Cincinnati,East Carolina,53,52,105,1,False
+2003-02-26,Coastal Carolina,Elon,53,75,128,-22,False
+2003-02-26,Drake,Illinois State,70,63,133,7,False
+2003-02-26,Drexel,Delaware,70,56,126,14,False
+2003-02-26,Eastern Michigan,Western Michigan,80,72,152,8,False
+2003-02-26,Hartford,Vermont,64,61,125,3,False
+2003-02-26,High Point,Liberty,72,68,140,4,False
+2003-02-26,Hofstra,Towson,66,47,113,19,False
+2003-02-26,Indiana State,Northern Iowa,39,59,98,-20,False
+2003-02-26,James Madison,VCU,64,63,127,1,False
+2003-02-26,Louisiana,Western Kentucky,66,69,135,-3,False
+2003-02-26,LSU,Auburn,94,63,157,31,False
+2003-02-26,Michigan State,Minnesota,71,61,132,10,False
+2003-02-26,New Orleans,Texas A&M-Corpus Christi,77,63,140,14,False
+2003-02-26,Northeastern,Albany (NY),69,54,123,15,False
+2003-02-26,Northern Arizona,Montana State,81,71,152,10,False
+2003-02-26,Ohio,Virginia,78,72,150,6,False
+2003-02-26,Purdue,Penn State,79,55,134,24,False
+2003-02-26,St. Peter's,Fairfield,71,73,144,-2,False
+2003-02-26,Southern Illinois,Evansville,76,64,140,12,False
+2003-02-26,St. Bonaventure,George Washington,94,89,183,5,False
+2003-02-26,St. John's (NY),Boston College,63,81,144,-18,False
+2003-02-26,Stony Brook,Binghamton,77,70,147,7,False
+2003-02-26,Temple,UMass,88,46,134,42,False
+2003-02-26,Tulane,Houston,56,52,108,4,False
+2003-02-26,Vanderbilt,Arkansas,50,60,110,-10,False
+2003-02-26,Wisconsin,Michigan,73,42,115,31,False
+2003-02-27,California,Arizona,75,88,163,-13,False
+2003-02-27,Louisville,Marquette,73,78,151,-5,False
+2003-02-27,Stanford,Arizona State,88,77,165,11,False
+2003-02-27,American,Army,77,43,120,34,False
+2003-02-27,Austin Peay,Eastern Kentucky,78,64,142,14,False
+2003-02-27,Birmingham-Southern,Savannah State,92,75,167,17,False
+2003-02-27,Boise State,SMU,58,66,124,-8,False
+2003-02-27,Butler,Green Bay,58,37,95,21,False
+2003-02-27,Cal Poly,UC-Irvine,62,68,130,-6,False
+2003-02-27,Cal State Northridge,UC-Riverside,78,70,148,8,False
+2003-02-27,UCSB,Long Beach State,70,46,116,24,False
+2003-02-27,Campbell,Georgia State,72,88,160,-16,False
+2003-02-27,Detroit Mercy,Youngstown State,86,52,138,34,False
+2003-02-27,Eastern Washington,Weber State,64,67,131,-3,False
+2003-02-27,FDU,Robert Morris,88,80,168,8,False
+2003-02-27,Gardner-Webb,Jacksonville State,75,83,158,-8,False
+2003-02-27,IU Indianapolis,Southern Utah,77,58,135,19,False
+2003-02-27,LIU,Wagner,87,71,158,16,False
+2003-02-27,Louisiana-Monroe,Sam Houston,78,71,149,7,False
+2003-02-27,Loyola (IL),UIC,65,66,131,-1,False
+2003-02-27,Loyola (MD),Iona,45,82,127,-37,False
+2003-02-27,UMBC,Central Connecticut,60,66,126,-6,False
+2003-02-27,McNeese State,Nicholls State,71,50,121,21,False
+2003-02-27,Mercer,Jacksonville,73,63,136,10,False
+2003-02-27,Kansas City,Valparaiso,63,75,138,-12,False
+2003-02-27,Monmouth,Saint Francis (PA),68,76,144,-8,False
+2003-02-27,Mount St. Mary's,Quinnipiac,52,63,115,-11,False
+2003-02-27,Navy,Lafayette,79,74,153,5,False
+2003-02-27,New Mexico State,Denver,87,76,163,11,False
+2003-02-27,UNC Greensboro,Furman,74,78,152,-4,False
+2003-02-27,Northwestern State,Lamar,47,62,109,-15,False
+2003-02-27,Oakland,Chicago State,64,61,125,3,False
+2003-02-27,Oral Roberts,Western Illinois,79,58,137,21,False
+2003-02-27,Oregon,USC,79,66,145,13,False
+2003-02-27,Oregon State,UCLA,66,69,135,-3,False
+2003-02-27,Pacific,Cal State Fullerton,52,55,107,-3,False
+2003-02-27,Portland State,Idaho State,77,69,146,8,False
+2003-02-27,Rice,San Jose State,65,52,117,13,False
+2003-02-27,Sacramento State,Montana,71,77,148,-6,False
+2003-02-27,San Diego,Portland,92,69,161,23,False
+2003-02-27,Santa Clara,Gonzaga,66,71,137,-5,False
+2003-02-27,Seton Hall,Villanova,57,56,113,1,False
+2003-02-27,Siena,Manhattan,72,68,140,4,False
+2003-02-27,St. Francis (NY),Sacred Heart,110,92,202,18,False
+2003-02-27,Stephen F. Austin,UTSA,76,45,121,31,False
+2003-02-27,Tennessee State,Eastern Illinois,75,88,163,-13,False
+2003-02-27,Tennessee Tech,Southeast Missouri State,89,73,162,16,False
+2003-02-27,UTEP,Louisiana Tech,75,57,132,18,False
+2003-02-27,Texas State,UT Arlington,47,50,97,-3,False
+2003-02-27,Troy,Stetson,117,70,187,47,False
+2003-02-27,Tulsa,Hawaii,76,51,127,25,False
+2003-02-27,Wright State,Milwaukee,65,98,163,-33,False
+2003-02-28,Belmont,Samford,72,64,136,8,False
+2003-02-28,Brown,Penn,65,69,134,-4,False
+2003-02-28,Bucknell,Holy Cross,43,54,97,-11,False
+2003-02-28,Canisius,Marist,68,73,141,-5,False
+2003-02-28,Columbia,Dartmouth,36,50,86,-14,False
+2003-02-28,Cornell,Harvard,68,63,131,5,False
+2003-02-28,Lehigh,Colgate,68,75,143,-7,False
+2003-02-28,Loyola Marymount,San Francisco,69,75,144,-6,False
+2003-02-28,Niagara,Rider,78,72,150,6,False
+2003-02-28,Pepperdine,Saint Mary's,72,67,139,5,False
+2003-02-28,Radford,Liberty,81,56,137,25,False
+2003-02-28,Yale,Princeton,52,61,113,-9,False
+2003-03-01,Stanford,Arizona,69,72,141,-3,False
+2003-03-01,Texas A&M,Oklahoma,64,69,133,-5,False
+2003-03-01,Auburn,Florida,70,73,143,-3,False
+2003-03-01,Texas Tech,Texas,71,76,147,-5,False
+2003-03-01,Kansas,Oklahoma State,79,61,140,18,False
+2003-03-01,Rutgers,Notre Dame,95,82,177,13,False
+2003-03-01,Marquette,UAB,98,87,185,11,False
+2003-03-01,Louisville,East Carolina,82,76,158,6,False
+2003-03-01,Wake Forest,Clemson,80,68,148,12,False
+2003-03-01,Xavier,George Washington,71,70,141,1,False
+2003-03-01,Georgetown,Syracuse,84,93,177,-9,False
+2003-03-01,Southern Illinois,Creighton,70,62,132,8,False
+2003-03-01,Michigan,Illinois,79,82,161,-3,False
+2003-03-01,Arkansas,Mississippi State,53,51,104,2,False
+2003-03-01,New Mexico,Utah,76,69,145,7,False
+2003-03-01,Memphis,Cincinnati,67,48,115,19,False
+2003-03-01,Dayton,Fordham,69,64,133,5,False
+2003-03-01,Air Force,BYU,43,56,99,-13,False
+2003-03-01,Alabama A&M,Texas Southern,90,82,172,8,False
+2003-03-01,Alabama State,Prairie View,54,60,114,-6,False
+2003-03-01,American,Lafayette,79,62,141,17,False
+2003-03-01,Little Rock,Florida International,67,62,129,5,False
+2003-03-01,Arkansas-Pine Bluff,Grambling,63,68,131,-5,False
+2003-03-01,Austin Peay,Morehead State,76,64,140,12,False
+2003-03-01,Baylor,Colorado,59,72,131,-13,False
+2003-03-01,Boise State,Louisiana Tech,74,51,125,23,False
+2003-03-01,Bowling Green,Miami (OH),51,48,99,3,False
+2003-03-01,Bradley,Evansville,51,54,105,-3,False
+2003-03-01,Brown,Princeton,88,74,162,14,False
+2003-03-01,Butler,Milwaukee,76,74,150,2,False
+2003-03-01,Cal Poly,Long Beach State,76,64,140,12,False
+2003-03-01,Cal State Northridge,Cal State Fullerton,70,62,132,8,False
+2003-03-01,UCSB,UC-Irvine,67,51,118,16,False
+2003-03-01,Campbell,Jacksonville State,56,68,124,-12,False
+2003-03-01,Central Michigan,Eastern Michigan,106,89,195,17,False
+2003-03-01,Charleston Southern,Coastal Carolina,70,66,136,4,False
+2003-03-01,Charlotte,DePaul,58,50,108,8,False
+2003-03-01,College of Charleston,Georgia Southern,73,71,144,2,False
+2003-03-01,Colorado State,UNLV,67,73,140,-6,False
+2003-03-01,Columbia,Harvard,63,66,129,-3,False
+2003-03-01,Coppin State,Florida A&M,69,73,142,-4,False
+2003-03-01,Cornell,Dartmouth,53,70,123,-17,False
+2003-03-01,Davidson,VMI,84,49,133,35,False
+2003-03-01,Detroit Mercy,Cleveland State,72,55,127,17,False
+2003-03-01,Drexel,George Mason,55,57,112,-2,False
+2003-03-01,ETSU,Appalachian State,88,78,166,10,False
+2003-03-01,Eastern Washington,Idaho State,63,65,128,-2,False
+2003-03-01,FDU,Saint Francis (PA),75,73,148,2,False
+2003-03-01,Florida Atlantic,UCF,75,82,157,-7,False
+2003-03-01,Florida State,Virginia,73,59,132,14,False
+2003-03-01,Fresno State,Nevada,107,99,206,8,False
+2003-03-01,Gardner-Webb,Georgia State,58,64,122,-6,False
+2003-03-01,Hampton,North Carolina A&T,79,63,142,16,False
+2003-03-01,High Point,Elon,46,70,116,-24,False
+2003-03-01,Houston,TCU,75,57,132,18,False
+2003-03-01,UIC,Youngstown State,73,47,120,26,False
+2003-03-01,Indiana,Iowa,91,88,179,3,False
+2003-03-01,Indiana State,Illinois State,50,80,130,-30,False
+2003-03-01,IU Indianapolis,Chicago State,67,55,122,12,False
+2003-03-01,Kansas State,Missouri,70,77,147,-7,False
+2003-03-01,Kent State,Akron,70,85,155,-15,False
+2003-03-01,La Salle,Duquesne,71,66,137,5,False
+2003-03-01,LIU,Sacred Heart,73,79,152,-6,False
+2003-03-01,Louisiana-Monroe,Lamar,80,52,132,28,False
+2003-03-01,Loyola Marymount,Saint Mary's,62,67,129,-5,False
+2003-03-01,Loyola (MD),Fairfield,51,69,120,-18,False
+2003-03-01,UMBC,Quinnipiac,80,58,138,22,False
+2003-03-01,Maryland-Eastern Shore,Delaware State,57,70,127,-13,False
+2003-03-01,McNeese State,Southeastern Louisiana,78,81,159,-3,False
+2003-03-01,Mercer,Stetson,101,84,185,17,False
+2003-03-01,Miami (FL),Boston College,68,72,140,-4,False
+2003-03-01,Michigan State,Purdue,69,61,130,8,False
+2003-03-01,Mississippi Valley State,Jackson State,85,78,163,7,False
+2003-03-01,Kansas City,Western Illinois,83,79,162,4,False
+2003-03-01,Missouri State,Wichita State,65,71,136,-6,False
+2003-03-01,Monmouth,Robert Morris,59,69,128,-10,False
+2003-03-01,Morgan State,Bethune-Cookman,59,55,114,4,False
+2003-03-01,Morris Brown,Texas-Rio Grande Valley,72,71,143,1,False
+2003-03-01,Mount St. Mary's,Central Connecticut,60,56,116,4,False
+2003-03-01,Navy,Army,62,56,118,6,False
+2003-03-01,Nebraska,Iowa State,69,63,132,6,False
+2003-03-01,New Mexico State,North Texas,80,66,146,14,False
+2003-03-01,Norfolk State,South Carolina State,63,61,124,2,False
+2003-03-01,UNC,Georgia Tech,67,66,133,1,False
+2003-03-01,UNC Asheville,Winthrop,65,76,141,-11,False
+2003-03-01,UNC Wilmington,VCU,80,63,143,17,False
+2003-03-01,Northern Arizona,Montana,69,59,128,10,False
+2003-03-01,Northern Illinois,Toledo,85,75,160,10,False
+2003-03-01,Northern Iowa,Drake,59,48,107,11,False
+2003-03-01,Northwestern,Penn State,85,79,164,6,False
+2003-03-01,Northwestern State,Sam Houston,72,83,155,-11,False
+2003-03-01,Oakland,Southern Utah,92,77,169,15,False
+2003-03-01,Ohio,Marshall,70,65,135,5,False
+2003-03-01,Old Dominion,Hofstra,77,46,123,31,False
+2003-03-01,Oral Roberts,Valparaiso,89,75,164,14,False
+2003-03-01,Oregon,UCLA,79,48,127,31,False
+2003-03-01,Oregon State,USC,61,60,121,1,False
+2003-03-01,Pacific,UC-Riverside,77,65,142,12,False
+2003-03-01,Pepperdine,San Francisco,82,90,172,-8,False
+2003-03-01,Portland State,Weber State,73,83,156,-10,False
+2003-03-01,Rice,Hawaii,75,58,133,17,False
+2003-03-01,Sacramento State,Montana State,72,52,124,20,False
+2003-03-01,St. Joseph's,Richmond,75,59,134,16,False
+2003-03-01,Saint Louis,Tulane,76,74,150,2,False
+2003-03-01,San Diego,Gonzaga,69,72,141,-3,False
+2003-03-01,Santa Clara,Portland,63,75,138,-12,False
+2003-03-01,Seton Hall,West Virginia,56,53,109,3,False
+2003-03-01,Siena,St. Peter's,100,69,169,31,False
+2003-03-01,South Alabama,New Orleans,61,58,119,3,False
+2003-03-01,South Carolina,Vanderbilt,76,64,140,12,False
+2003-03-01,Southern,Alcorn State,62,63,125,-1,False
+2003-03-01,Southern Miss,South Florida,70,62,132,8,False
+2003-03-01,St. Francis (NY),Wagner,96,84,180,12,False
+2003-03-01,Temple,St. Bonaventure,78,77,155,1,False
+2003-03-01,Tennessee,LSU,67,88,155,-21,False
+2003-03-01,UT-Martin,Murray State,59,80,139,-21,False
+2003-03-01,Tennessee State,Southeast Missouri State,82,89,171,-7,False
+2003-03-01,Tennessee Tech,Eastern Illinois,97,84,181,13,False
+2003-03-01,Texas A&M-Corpus Christi,Binghamton,72,68,140,4,False
+2003-03-01,UTEP,SMU,43,65,108,-22,False
+2003-03-01,UTSA,UT Arlington,60,68,128,-8,False
+2003-03-01,Texas State,Stephen F. Austin,60,58,118,2,False
+2003-03-01,Towson,Delaware,69,74,143,-5,False
+2003-03-01,Troy,Jacksonville,94,72,166,22,False
+2003-03-01,Tulsa,San Jose State,74,53,127,21,False
+2003-03-01,Utah State,Idaho,51,52,103,-1,False
+2003-03-01,Virginia Tech,Villanova,88,63,151,25,False
+2003-03-01,Washington State,Washington,98,76,174,22,False
+2003-03-01,Western Carolina,Chattanooga,75,83,158,-8,False
+2003-03-01,Western Kentucky,Middle Tennessee,89,75,164,14,False
+2003-03-01,Western Michigan,Ball State,86,74,160,12,False
+2003-03-01,William & Mary,James Madison,75,72,147,3,False
+2003-03-01,Wofford,The Citadel,75,63,138,12,False
+2003-03-01,Wright State,Green Bay,77,74,151,3,False
+2003-03-01,Wyoming,San Diego State,73,86,159,-13,False
+2003-03-01,Yale,Penn,75,80,155,-5,False
+2003-03-02,Georgia,Kentucky,66,74,140,-8,False
+2003-03-02,St. John's (NY),Duke,72,71,143,1,False
+2003-03-02,Pitt,UConn,71,67,138,4,False
+2003-03-02,NC State,Maryland,65,68,133,-3,False
+2003-03-02,California,Arizona State,80,72,152,8,False
+2003-03-02,Alabama,Ole Miss,86,63,149,23,False
+2003-03-02,Bucknell,Colgate,56,64,120,-8,False
+2003-03-02,Canisius,Rider,84,74,158,10,False
+2003-03-02,Hartford,Maine,70,58,128,12,False
+2003-03-02,Lehigh,Holy Cross,64,72,136,-8,False
+2003-03-02,Manhattan,Iona,69,58,127,11,False
+2003-03-02,Minnesota,Wisconsin,61,69,130,-8,False
+2003-03-02,Niagara,Marist,88,87,175,1,False
+2003-03-02,Northeastern,Boston University,65,76,141,-11,False
+2003-03-02,Rhode Island,UMass,65,58,123,7,False
+2003-03-02,Stony Brook,New Hampshire,55,62,117,-7,False
+2003-03-02,Vermont,Albany (NY),69,60,129,9,False
+2003-03-03,Texas Tech,Kansas,56,65,121,-9,False
+2003-03-03,Creighton,Wichita State,86,60,146,26,False
+2003-03-03,Air Force,Utah,52,57,109,-5,False
+2003-03-03,Alabama A&M,Prairie View,75,76,151,-1,False
+2003-03-03,Alabama State,Texas Southern,68,64,132,4,False
+2003-03-03,Arkansas-Pine Bluff,Jackson State,52,50,102,2,False
+2003-03-03,Arkansas State,Florida International,85,65,150,20,False
+2003-03-03,Colorado State,San Diego State,102,89,191,13,False
+2003-03-03,Coppin State,Bethune-Cookman,70,65,135,5,False
+2003-03-03,Drake,Bradley,67,77,144,-10,False
+2003-03-03,Eastern Michigan,Buffalo,88,78,166,10,False
+2003-03-03,Evansville,Indiana State,77,69,146,8,False
+2003-03-03,Hampton,South Carolina State,73,78,151,-5,False
+2003-03-03,Howard,Delaware State,56,59,115,-3,False
+2003-03-03,Illinois State,Southern Illinois,62,78,140,-16,False
+2003-03-03,Mississippi Valley State,Grambling,92,99,191,-7,False
+2003-03-03,Missouri State,Northern Iowa,52,51,103,1,False
+2003-03-03,Monmouth,FDU,68,59,127,9,False
+2003-03-03,Morgan State,Florida A&M,56,69,125,-13,False
+2003-03-03,New Mexico,BYU,81,91,172,-10,False
+2003-03-03,Norfolk State,North Carolina A&T,54,61,115,-7,False
+2003-03-03,UNC Wilmington,William & Mary,60,49,109,11,False
+2003-03-03,Southern,Morris Brown,77,49,126,28,False
+2003-03-03,West Virginia,Georgetown,67,69,136,-2,False
+2003-03-03,Wyoming,UNLV,69,66,135,3,False
+2003-03-04,Georgia,Florida,82,81,163,1,False
+2003-03-04,Texas,Kansas State,74,60,134,14,False
+2003-03-04,Oklahoma,Nebraska,76,51,127,25,False
+2003-03-04,Notre Dame,Syracuse,88,92,180,-4,False
+2003-03-04,Austin Peay,Eastern Kentucky,83,80,163,3,False
+2003-03-04,Boston College,Villanova,92,84,176,8,False
+2003-03-04,Charleston Southern,Radford,62,65,127,-3,False
+2003-03-04,Detroit Mercy,Wright State,78,61,139,17,False
+2003-03-04,Elon,UNC Asheville,66,68,134,-2,False
+2003-03-04,Green Bay,Youngstown State,61,65,126,-4,False
+2003-03-04,Indiana,Minnesota,74,70,144,4,False
+2003-03-04,Liberty,Coastal Carolina,63,61,124,2,False
+2003-03-04,Loyola (IL),Cleveland State,69,57,126,12,False
+2003-03-04,Morehead State,Southeast Missouri State,91,84,175,7,False
+2003-03-04,Murray State,Eastern Illinois,74,63,137,11,False
+2003-03-04,Tennessee Tech,UT-Martin,76,62,138,14,False
+2003-03-04,Winthrop,High Point,80,64,144,16,False
+2003-03-05,Kentucky,Vanderbilt,106,44,150,62,False
+2003-03-05,Pitt,Seton Hall,86,54,140,32,False
+2003-03-05,Wake Forest,UNC,75,60,135,15,False
+2003-03-05,St. Joseph's,Xavier,80,88,168,-8,False
+2003-03-05,Wisconsin,Illinois,60,59,119,1,False
+2003-03-05,DePaul,Louisville,79,76,155,3,False
+2003-03-05,Colorado,Oklahoma State,68,56,124,12,False
+2003-03-05,Tennessee,Mississippi State,59,49,108,10,False
+2003-03-05,Akron,Marshall,79,71,150,8,False
+2003-03-05,Alabama,South Carolina,82,59,141,23,False
+2003-03-05,Auburn,Arkansas,69,54,123,15,False
+2003-03-05,Central Michigan,Northern Illinois,73,57,130,16,False
+2003-03-05,Cincinnati,UAB,87,70,157,17,False
+2003-03-05,The Citadel,Appalachian State,63,73,136,-10,False
+2003-03-05,Clemson,NC State,60,63,123,-3,False
+2003-03-05,UConn,Providence,70,76,146,-6,False
+2003-03-05,Fordham,Richmond,53,60,113,-7,False
+2003-03-05,Furman,VMI,56,62,118,-6,False
+2003-03-05,Iowa State,Missouri,71,55,126,16,False
+2003-03-05,Miami (OH),Ohio,56,64,120,-8,False
+2003-03-05,Michigan State,Iowa,82,54,136,28,False
+2003-03-05,Ole Miss,LSU,64,77,141,-13,False
+2003-03-05,Nevada,Rice,86,68,154,18,False
+2003-03-05,UNC Greensboro,Wofford,73,77,150,-4,False
+2003-03-05,Northwestern,Ohio State,48,52,100,-4,False
+2003-03-05,Penn State,Michigan,62,78,140,-16,False
+2003-03-05,Saint Louis,Charlotte,50,39,89,11,False
+2003-03-05,Sam Houston,McNeese State,81,66,147,15,False
+2003-03-05,South Florida,Tulane,72,60,132,12,False
+2003-03-05,Stephen F. Austin,Louisiana-Monroe,66,58,124,8,False
+2003-03-05,Texas A&M,Baylor,79,60,139,19,False
+2003-03-05,UT Arlington,Northwestern State,68,50,118,18,False
+2003-03-05,UTSA,Southeastern Louisiana,80,69,149,11,False
+2003-03-05,Texas State,Nicholls State,72,59,131,13,False
+2003-03-05,Toledo,Ball State,100,64,164,36,False
+2003-03-05,Tulsa,Fresno State,62,59,121,3,False
+2003-03-05,Virginia,Georgia Tech,73,90,163,-17,False
+2003-03-05,Virginia Tech,Miami (FL),71,79,150,-8,False
+2003-03-05,Western Carolina,Georgia Southern,81,89,170,-8,False
+2003-03-05,Western Michigan,Buffalo,87,66,153,21,False
+2003-03-06,Arizona,Oregon State,72,60,132,12,False
+2003-03-06,Duke,Florida State,72,56,128,16,False
+2003-03-06,Houston,Memphis,56,71,127,-15,False
+2003-03-06,Appalachian State,Chattanooga,67,98,165,-31,False
+2003-03-06,Arizona State,Oregon,91,77,168,14,False
+2003-03-06,Bethune-Cookman,Florida A&M,66,72,138,-6,False
+2003-03-06,Bowling Green,Eastern Michigan,73,72,145,1,False
+2003-03-06,BYU,Wyoming,69,50,119,19,False
+2003-03-06,Cal State Fullerton,UCSB,60,63,123,-3,False
+2003-03-06,UC-Riverside,Cal Poly,67,86,153,-19,False
+2003-03-06,College of Charleston,Georgia Southern,67,53,120,14,False
+2003-03-06,Davidson,VMI,60,66,126,-6,False
+2003-03-06,Georgia State,Belmont,76,58,134,18,False
+2003-03-06,Grambling,Alabama A&M,63,62,125,1,False
+2003-03-06,Hawaii,Boise State,68,65,133,3,False
+2003-03-06,Idaho,Pacific,60,55,115,5,False
+2003-03-06,Jackson State,Alabama State,70,60,130,10,False
+2003-03-06,Jacksonville,Mercer,57,73,130,-16,False
+2003-03-06,Jacksonville State,UCF,51,68,119,-17,False
+2003-03-06,Maryland-Eastern Shore,Howard,73,67,140,6,False
+2003-03-06,Prairie View,Southern,87,76,163,11,False
+2003-03-06,Samford,Troy,54,70,124,-16,False
+2003-03-06,San Jose State,UTEP,74,73,147,1,False
+2003-03-06,USC,Washington,89,95,184,-6,False
+2003-03-06,St. John's (NY),Rutgers,75,59,134,16,False
+2003-03-06,Temple,La Salle,68,58,126,10,False
+2003-03-06,Texas Southern,Alcorn State,79,69,148,10,False
+2003-03-06,UCLA,Washington State,86,71,157,15,False
+2003-03-06,Utah,Colorado State,65,66,131,-1,False
+2003-03-06,Utah State,Cal State Northridge,69,58,127,11,False
+2003-03-06,Wofford,ETSU,75,80,155,-5,False
+2003-03-07,Arkansas State,Denver,76,82,158,-6,False
+2003-03-07,Canisius,Marist,63,69,132,-6,False
+2003-03-07,College of Charleston,ETSU,55,64,119,-9,False
+2003-03-07,Dartmouth,Brown,67,79,146,-12,False
+2003-03-07,Drake,Illinois State,62,63,125,-1,False
+2003-03-07,Georgia State,Troy,61,71,132,-10,False
+2003-03-07,Harvard,Yale,82,95,177,-13,False
+2003-03-07,Liberty,Radford,52,55,107,-3,False
+2003-03-07,Loyola (IL),Detroit Mercy,84,98,182,-14,False
+2003-03-07,Loyola (MD),Iona,39,62,101,-23,False
+2003-03-07,McNeese State,Lamar,72,62,134,10,False
+2003-03-07,Mercer,UCF,59,79,138,-20,False
+2003-03-07,Morehead State,Tennessee Tech,71,88,159,-17,False
+2003-03-07,Murray State,Austin Peay,56,59,115,-3,False
+2003-03-07,New Orleans,Florida International,45,62,107,-17,False
+2003-03-07,North Texas,Little Rock,73,74,147,-1,False
+2003-03-07,Northern Iowa,Indiana State,60,61,121,-1,False
+2003-03-07,Penn,Columbia,63,39,102,24,False
+2003-03-07,Portland,Loyola Marymount,63,65,128,-2,False
+2003-03-07,Princeton,Cornell,71,61,132,10,False
+2003-03-07,Rider,St. Peter's,73,77,150,-4,False
+2003-03-07,Santa Clara,Saint Mary's,51,65,116,-14,False
+2003-03-07,Stephen F. Austin,Northwestern State,75,63,138,12,False
+2003-03-07,UT Arlington,Louisiana-Monroe,85,84,169,1,False
+2003-03-07,UTSA,Nicholls State,79,60,139,19,False
+2003-03-07,Texas State,Southeastern Louisiana,70,75,145,-5,False
+2003-03-07,Towson,James Madison,61,72,133,-11,False
+2003-03-07,VMI,Chattanooga,58,77,135,-19,False
+2003-03-07,William & Mary,Hofstra,64,74,138,-10,False
+2003-03-07,Winthrop,UNC Asheville,80,81,161,-1,False
+2003-03-07,Youngstown State,UIC,59,79,138,-20,False
+2003-03-08,Arizona,Oregon,88,80,168,8,False
+2003-03-08,Florida,Kentucky,67,69,136,-2,False
+2003-03-08,Oklahoma,Texas,71,76,147,-5,False
+2003-03-08,Marquette,Cincinnati,70,61,131,9,False
+2003-03-08,NC State,Wake Forest,72,78,150,-6,False
+2003-03-08,Xavier,Temple,96,65,161,31,False
+2003-03-08,Louisville,Charlotte,100,59,159,41,False
+2003-03-08,Georgetown,Notre Dame,80,86,166,-6,False
+2003-03-08,Stanford,California,72,60,132,12,False
+2003-03-08,UAB,Memphis,79,90,169,-11,False
+2003-03-08,Indiana State,Creighton,56,57,113,-1,False
+2003-03-08,Oklahoma State,Texas A&M,77,52,129,25,False
+2003-03-08,Mississippi State,Auburn,67,45,112,22,False
+2003-03-08,Air Force,New Mexico,68,60,128,8,False
+2003-03-08,Arizona State,Oregon State,74,64,138,10,False
+2003-03-08,Arkansas,Ole Miss,54,64,118,-10,False
+2003-03-08,Army,Holy Cross,40,58,98,-18,False
+2003-03-08,Ball State,Central Michigan,66,86,152,-20,False
+2003-03-08,Baylor,Texas Tech,74,68,142,6,False
+2003-03-08,Boston College,UConn,54,91,145,-37,False
+2003-03-08,Bowling Green,Toledo,64,68,132,-4,False
+2003-03-08,Bradley,Wichita State,66,70,136,-4,False
+2003-03-08,BYU,Colorado State,67,55,122,12,False
+2003-03-08,Buffalo,Akron,70,66,136,4,False
+2003-03-08,Butler,Detroit Mercy,58,55,113,3,False
+2003-03-08,Cal State Fullerton,Cal Poly,88,85,173,3,False
+2003-03-08,UC-Irvine,Long Beach State,95,60,155,35,False
+2003-03-08,UC-Riverside,UCSB,55,70,125,-15,False
+2003-03-08,Central Connecticut,St. Francis (NY),62,67,129,-5,False
+2003-03-08,UCF,Troy,69,80,149,-11,False
+2003-03-08,Chattanooga,ETSU,90,97,187,-7,False
+2003-03-08,Colgate,Lafayette,76,89,165,-13,False
+2003-03-08,Colorado,Nebraska,84,69,153,15,False
+2003-03-08,Coppin State,Morgan State,59,50,109,9,False
+2003-03-08,Dartmouth,Yale,50,60,110,-10,False
+2003-03-08,DePaul,Houston,65,59,124,6,False
+2003-03-08,Duquesne,Rhode Island,71,76,147,-5,False
+2003-03-08,East Carolina,Saint Louis,48,58,106,-10,False
+2003-03-08,Evansville,Missouri State,51,65,116,-14,False
+2003-03-08,George Mason,Delaware,49,61,110,-12,False
+2003-03-08,George Washington,Fordham,77,61,138,16,False
+2003-03-08,Georgia Tech,Clemson,66,56,122,10,False
+2003-03-08,Grambling,Alabama State,63,67,130,-4,False
+2003-03-08,Harvard,Brown,80,93,173,-13,False
+2003-03-08,Hawaii,UTEP,77,63,140,14,False
+2003-03-08,Hofstra,UNC Wilmington,56,76,132,-20,False
+2003-03-08,Idaho,Cal State Northridge,78,86,164,-8,False
+2003-03-08,Idaho State,Northern Arizona,85,74,159,11,False
+2003-03-08,UIC,Milwaukee,73,75,148,-2,False
+2003-03-08,Illinois State,Southern Illinois,63,75,138,-12,False
+2003-03-08,Iona,Niagara,75,81,156,-6,False
+2003-03-08,Iowa,Northwestern,77,61,138,16,False
+2003-03-08,Jackson State,Alabama A&M,81,72,153,9,False
+2003-03-08,Kansas State,Iowa State,74,63,137,11,False
+2003-03-08,Kent State,Ohio,73,62,135,11,False
+2003-03-08,Lehigh,Bucknell,47,52,99,-5,False
+2003-03-08,Louisiana,Denver,68,72,140,-4,False
+2003-03-08,LSU,Alabama,66,62,128,4,False
+2003-03-08,Loyola Marymount,San Francisco,56,70,126,-14,False
+2003-03-08,Marist,Siena,68,70,138,-2,False
+2003-03-08,Marshall,Miami (OH),58,51,109,7,False
+2003-03-08,UMass,St. Joseph's,49,52,101,-3,False
+2003-03-08,Miami (FL),St. John's (NY),73,76,149,-3,False
+2003-03-08,Michigan,Purdue,61,69,130,-8,False
+2003-03-08,Mississippi Valley State,Arkansas-Pine Bluff,75,68,143,7,False
+2003-03-08,Monmouth,FDU,51,63,114,-12,False
+2003-03-08,Montana,Sacramento State,75,88,163,-13,False
+2003-03-08,Navy,American,57,72,129,-15,False
+2003-03-08,Nevada,Tulsa,73,79,152,-6,False
+2003-03-08,UNLV,San Diego State,83,72,155,11,False
+2003-03-08,Norfolk State,Hampton,48,44,92,4,False
+2003-03-08,North Carolina A&T,South Carolina State,74,77,151,-3,False
+2003-03-08,Northern Illinois,Western Michigan,67,71,138,-4,False
+2003-03-08,Ohio State,Michigan State,58,72,130,-14,False
+2003-03-08,Old Dominion,Drexel,52,61,113,-9,False
+2003-03-08,Penn State,Indiana,74,66,140,8,False
+2003-03-08,Penn,Cornell,69,52,121,17,False
+2003-03-08,Pepperdine,Saint Mary's,71,75,146,-4,False
+2003-03-08,Prairie View,Alcorn State,75,64,139,11,False
+2003-03-08,Princeton,Columbia,44,40,84,4,False
+2003-03-08,Providence,Seton Hall,64,61,125,3,False
+2003-03-08,Radford,UNC Asheville,71,85,156,-14,False
+2003-03-08,Rice,Fresno State,92,71,163,21,False
+2003-03-08,Richmond,La Salle,75,62,137,13,False
+2003-03-08,Saint Francis (PA),Quinnipiac,57,75,132,-18,False
+2003-03-08,St. Peter's,Fairfield,60,68,128,-8,False
+2003-03-08,San Jose State,Boise State,47,65,112,-18,False
+2003-03-08,USC,Washington State,86,68,154,18,False
+2003-03-08,SMU,Louisiana Tech,84,61,145,23,False
+2003-03-08,Tennessee Tech,Austin Peay,57,63,120,-6,False
+2003-03-08,TCU,South Florida,75,63,138,12,False
+2003-03-08,Texas Southern,Southern,79,65,144,14,False
+2003-03-08,Tulane,Southern Miss,74,61,135,13,False
+2003-03-08,UCLA,Washington,83,72,155,11,False
+2003-03-08,Utah,Wyoming,86,70,156,16,False
+2003-03-08,Utah State,Pacific,75,70,145,5,False
+2003-03-08,Vanderbilt,Tennessee,65,70,135,-5,False
+2003-03-08,VCU,James Madison,73,53,126,20,False
+2003-03-08,Wagner,LIU,88,66,154,22,False
+2003-03-08,West Virginia,Virginia Tech,71,67,138,4,False
+2003-03-08,Western Kentucky,Florida International,71,60,131,11,False
+2003-03-09,Missouri,Kansas,74,79,153,-5,False
+2003-03-09,Villanova,Pitt,54,56,110,-2,False
+2003-03-09,UNC,Duke,82,79,161,3,False
+2003-03-09,Syracuse,Rutgers,83,74,157,9,False
+2003-03-09,Virginia,Maryland,80,78,158,2,False
+2003-03-09,Illinois,Minnesota,84,60,144,24,False
+2003-03-09,Wichita State,Creighton,69,70,139,-1,False
+2003-03-09,South Carolina,Georgia,55,60,115,-5,False
+2003-03-09,Albany (NY),Vermont,62,81,143,-19,False
+2003-03-09,Little Rock,New Mexico State,61,78,139,-17,False
+2003-03-09,Boston University,New Hampshire,75,61,136,14,False
+2003-03-09,Bucknell,Holy Cross,50,75,125,-25,False
+2003-03-09,Chicago State,Valparaiso,62,82,144,-20,False
+2003-03-09,Delaware,UNC Wilmington,50,63,113,-13,False
+2003-03-09,FDU,St. Francis (NY),62,88,150,-26,False
+2003-03-09,Lafayette,American,55,74,129,-19,False
+2003-03-09,Maine,Northeastern,68,71,139,-3,False
+2003-03-09,Kansas City,Oral Roberts,76,73,149,3,False
+2003-03-09,Missouri State,Southern Illinois,55,64,119,-9,False
+2003-03-09,Niagara,Manhattan,81,82,163,-1,False
+2003-03-09,Saint Mary's,Gonzaga,52,73,125,-21,False
+2003-03-09,San Diego,San Francisco,72,63,135,9,False
+2003-03-09,Siena,Fairfield,63,67,130,-4,False
+2003-03-09,South Alabama,Middle Tennessee,69,72,141,-3,False
+2003-03-09,Southern Utah,Oakland,66,55,121,11,False
+2003-03-09,Stony Brook,Hartford,47,59,106,-12,False
+2003-03-09,VCU,Drexel,60,62,122,-2,False
+2003-03-09,Wagner,Quinnipiac,61,54,115,7,False
+2003-03-09,Western Illinois,IU Indianapolis,51,75,126,-24,False
+2003-03-10,Southern Illinois,Creighton,56,80,136,-24,False
+2003-03-10,Akron,Ohio,77,79,156,-2,False
+2003-03-10,Ball State,Bowling Green,81,90,171,-9,False
+2003-03-10,Denver,Middle Tennessee,59,83,142,-24,False
+2003-03-10,Drexel,UNC Wilmington,62,70,132,-8,False
+2003-03-10,Fairfield,Manhattan,54,69,123,-15,False
+2003-03-10,Hartford,Vermont,51,67,118,-16,False
+2003-03-10,La Salle,Fordham,74,62,136,12,False
+2003-03-10,Marshall,Eastern Michigan,83,75,158,8,False
+2003-03-10,Maryland-Eastern Shore,Howard,69,71,140,-2,False
+2003-03-10,UMass,George Washington,74,85,159,-11,False
+2003-03-10,Kansas City,Valparaiso,50,71,121,-21,False
+2003-03-10,North Carolina A&T,Norfolk State,55,76,131,-21,False
+2003-03-10,Northeastern,Boston University,61,71,132,-10,False
+2003-03-10,Northern Illinois,Buffalo,81,64,145,17,False
+2003-03-10,Rhode Island,Duquesne,75,73,148,2,False
+2003-03-10,San Diego,Gonzaga,72,63,135,9,False
+2003-03-10,Southern Utah,IU Indianapolis,67,72,139,-5,False
+2003-03-10,UT Arlington,McNeese State,67,78,145,-11,False
+2003-03-10,Texas State,Louisiana-Monroe,94,85,179,9,False
+2003-03-10,Western Kentucky,New Mexico State,78,59,137,19,False
+2003-03-10,Western Michigan,Toledo,78,64,142,14,False
+2003-03-11,Alabama State,Alcorn State,55,58,113,-3,False
+2003-03-11,Idaho State,Eastern Washington,67,76,143,-9,False
+2003-03-11,Milwaukee,Butler,69,52,121,17,False
+2003-03-11,Mississippi Valley State,Grambling,90,78,168,12,False
+2003-03-11,Morgan State,Bethune-Cookman,103,104,207,-1,False
+2003-03-11,Prairie View,Southern,56,55,111,1,False
+2003-03-11,Princeton,Penn,67,74,141,-7,False
+2003-03-11,San Jose State,UTEP,80,86,166,-6,False
+2003-03-11,Texas Southern,Jackson State,68,66,134,2,False
+2003-03-11,Valparaiso,IU Indianapolis,64,66,130,-2,False
+2003-03-11,Weber State,Sacramento State,82,60,142,22,False
+2003-03-11,Western Kentucky,Middle Tennessee,64,52,116,12,False
+2003-03-12,Notre Dame,St. John's (NY),80,83,163,-3,False
+2003-03-12,Bethune-Cookman,South Carolina State,73,75,148,-2,False
+2003-03-12,Charlotte,UAB,61,85,146,-24,False
+2003-03-12,Cincinnati,Southern Miss,61,63,124,-2,False
+2003-03-12,Delaware State,Howard,65,68,133,-3,False
+2003-03-12,DePaul,South Florida,74,76,150,-2,False
+2003-03-12,Houston,Tulane,52,74,126,-22,False
+2003-03-12,Miami (FL),Seton Hall,52,67,119,-15,False
+2003-03-12,Sam Houston,McNeese State,64,58,122,6,False
+2003-03-12,Stephen F. Austin,Texas State,67,58,125,9,False
+2003-03-12,Villanova,Georgetown,41,46,87,-5,False
+2003-03-12,Wagner,St. Francis (NY),78,61,139,17,False
+2003-03-12,Weber State,Eastern Washington,60,57,117,3,False
+2003-03-12,West Virginia,Providence,50,73,123,-23,False
+2003-03-13,UCLA,Arizona,96,89,185,7,False
+2003-03-13,Providence,Pitt,59,67,126,-8,False
+2003-03-13,Marquette,UAB,76,83,159,-7,False
+2003-03-13,George Washington,Xavier,73,78,151,-5,False
+2003-03-13,Georgetown,Syracuse,69,74,143,-5,False
+2003-03-13,USC,Stanford,79,74,153,5,False
+2003-03-13,South Florida,Memphis,56,62,118,-6,False
+2003-03-13,Louisville,Tulane,82,66,148,16,False
+2003-03-13,Dayton,Rhode Island,74,57,131,17,False
+2003-03-13,Oregon State,California,46,69,115,-23,False
+2003-03-13,La Salle,St. Joseph's,48,68,116,-20,False
+2003-03-13,Air Force,Utah,38,42,80,-4,False
+2003-03-13,Alabama,Vanderbilt,69,82,151,-13,False
+2003-03-13,Arizona State,Oregon,82,83,165,-1,False
+2003-03-13,Baylor,Texas Tech,65,68,133,-3,False
+2003-03-13,Boise State,SMU,58,65,123,-7,False
+2003-03-13,Bowling Green,Central Michigan,70,87,157,-17,False
+2003-03-13,Cal State Fullerton,Utah State,83,89,172,-6,False
+2003-03-13,Cal State Northridge,UC-Irvine,64,70,134,-6,False
+2003-03-13,Clemson,Florida State,61,72,133,-11,False
+2003-03-13,Coppin State,Florida A&M,53,55,108,-2,False
+2003-03-13,Idaho,Cal Poly,50,54,104,-4,False
+2003-03-13,Iowa,Ohio State,64,66,130,-2,False
+2003-03-13,Kansas State,Colorado,76,77,153,-1,False
+2003-03-13,LSU,Arkansas,85,56,141,29,False
+2003-03-13,Louisiana Tech,Nevada,66,72,138,-6,False
+2003-03-13,Marshall,Kent State,57,79,136,-22,False
+2003-03-13,Miami (OH),Ohio,55,65,120,-10,False
+2003-03-13,Nebraska,Missouri,61,70,131,-9,False
+2003-03-13,UNLV,San Diego State,83,67,150,16,False
+2003-03-13,New Mexico,BYU,56,71,127,-15,False
+2003-03-13,Norfolk State,Hampton,62,64,126,-2,False
+2003-03-13,Northwestern,Minnesota,76,64,140,12,False
+2003-03-13,Pacific,UCSB,44,53,97,-9,False
+2003-03-13,Penn State,Indiana,49,77,126,-28,False
+2003-03-13,Rice,Hawaii,61,62,123,-1,False
+2003-03-13,Richmond,Temple,52,66,118,-14,False
+2003-03-13,Seton Hall,UConn,70,83,153,-13,False
+2003-03-13,South Carolina,Ole Miss,56,62,118,-6,False
+2003-03-13,Southern Miss,Saint Louis,56,69,125,-13,False
+2003-03-13,St. John's (NY),Boston College,75,82,157,-7,False
+2003-03-13,Texas A&M,Iowa State,70,97,167,-27,False
+2003-03-13,Tulsa,UTEP,81,47,128,34,False
+2003-03-13,Western Michigan,Northern Illinois,63,75,138,-12,False
+2003-03-13,Wyoming,Colorado State,71,74,145,-3,False
+2003-03-14,Vanderbilt,Kentucky,63,81,144,-18,False
+2003-03-14,Texas,Texas Tech,81,92,173,-11,False
+2003-03-14,Iowa State,Kansas,74,89,163,-15,False
+2003-03-14,Boston College,Pitt,48,61,109,-13,False
+2003-03-14,Colorado,Oklahoma,59,74,133,-15,False
+2003-03-14,LSU,Florida,65,61,126,4,False
+2003-03-14,Wake Forest,Florida State,69,61,130,8,False
+2003-03-14,Xavier,Temple,57,63,120,-6,False
+2003-03-14,Syracuse,UConn,67,80,147,-13,False
+2003-03-14,Duke,Virginia,83,76,159,7,False
+2003-03-14,Northwestern,Illinois,65,94,159,-29,False
+2003-03-14,UNC,Maryland,84,72,156,12,False
+2003-03-14,Louisville,Memphis,78,75,153,3,False
+2003-03-14,Wisconsin,Ohio State,50,58,108,-8,False
+2003-03-14,Dayton,St. Joseph's,76,73,149,3,False
+2003-03-14,Oklahoma State,Missouri,58,60,118,-2,False
+2003-03-14,USC,California,79,62,141,17,False
+2003-03-14,BYU,Colorado State,80,86,166,-6,False
+2003-03-14,UC-Irvine,Utah State,55,62,117,-7,False
+2003-03-14,UCSB,Cal Poly,52,67,119,-15,False
+2003-03-14,Florida A&M,South Carolina State,66,72,138,-6,False
+2003-03-14,Holy Cross,American,72,64,136,8,False
+2003-03-14,Howard,Hampton,64,73,137,-9,False
+2003-03-14,Michigan,Indiana,56,63,119,-7,False
+2003-03-14,Mississippi State,Ole Miss,73,64,137,9,False
+2003-03-14,Mississippi Valley State,Texas Southern,72,73,145,-1,False
+2003-03-14,UNLV,Utah,64,41,105,23,False
+2003-03-14,NC State,Georgia Tech,71,65,136,6,False
+2003-03-14,Northern Illinois,Central Michigan,72,94,166,-22,False
+2003-03-14,Ohio,Kent State,70,73,143,-3,False
+2003-03-14,Prairie View,Alcorn State,64,71,135,-7,False
+2003-03-14,Purdue,Michigan State,42,54,96,-12,False
+2003-03-14,Saint Louis,UAB,62,63,125,-1,False
+2003-03-14,Sam Houston,Stephen F. Austin,69,66,135,3,False
+2003-03-14,SMU,Nevada,66,81,147,-15,False
+2003-03-14,Tennessee,Auburn,53,66,119,-13,False
+2003-03-14,Tulsa,Hawaii,66,56,122,10,False
+2003-03-14,UCLA,Oregon,74,75,149,-1,False
+2003-03-15,Auburn,Kentucky,58,78,136,-20,False
+2003-03-15,Kansas,Missouri,63,68,131,-5,False
+2003-03-15,UConn,Pitt,56,74,130,-18,False
+2003-03-15,Texas Tech,Oklahoma,60,67,127,-7,False
+2003-03-15,Wake Forest,NC State,83,87,170,-4,False
+2003-03-15,UNC,Duke,63,75,138,-12,False
+2003-03-15,Indiana,Illinois,72,73,145,-1,False
+2003-03-15,Louisville,UAB,83,78,161,5,False
+2003-03-15,Dayton,Temple,79,72,151,7,False
+2003-03-15,Alcorn State,Texas Southern,68,77,145,-9,False
+2003-03-15,Boston University,Vermont,55,56,111,-1,False
+2003-03-15,Cal Poly,Utah State,54,57,111,-3,False
+2003-03-15,Hampton,South Carolina State,67,72,139,-5,False
+2003-03-15,Kent State,Central Michigan,67,77,144,-10,False
+2003-03-15,LSU,Mississippi State,61,76,137,-15,False
+2003-03-15,Michigan State,Ohio State,54,55,109,-1,False
+2003-03-15,UNLV,Colorado State,61,62,123,-1,False
+2003-03-15,USC,Oregon,66,74,140,-8,False
+2003-03-15,Tulsa,Nevada,75,64,139,11,False
+2003-03-16,Mississippi State,Kentucky,57,64,121,-7,False
+2003-03-16,Missouri,Oklahoma,47,49,96,-2,False
+2003-03-16,NC State,Duke,77,84,161,-7,False
+2003-03-16,Ohio State,Illinois,59,72,131,-13,False
+2003-03-17,Iowa,Valparaiso,62,60,122,2,False
+2003-03-18,UNC Asheville,Texas Southern,92,84,176,8,False
+2003-03-18,Fairfield,Boston College,78,90,168,-12,False
+2003-03-18,UNC,DePaul,83,72,155,11,False
+2003-03-18,Siena,Villanova,74,59,133,15,False
+2003-03-18,Temple,Drexel,68,59,127,9,False
+2003-03-18,Tennessee,Georgetown,60,70,130,-10,False
+2003-03-19,UAB,Louisiana,82,80,162,2,False
+2003-03-19,Georgia Tech,Ohio State,72,58,130,14,False
+2003-03-19,Iowa State,Wichita State,76,65,141,11,False
+2003-03-19,Kent State,College of Charleston,66,71,137,-5,False
+2003-03-19,UNLV,Hawaii,68,85,153,-17,False
+2003-03-19,Rhode Island,Seton Hall,61,60,121,1,False
+2003-03-19,Richmond,Providence,49,67,116,-18,False
+2003-03-19,Saint Louis,Minnesota,52,62,114,-10,False
+2003-03-19,San Diego State,UCSB,67,62,129,5,False
+2003-03-19,St. John's (NY),Boston University,62,57,119,5,False
+2003-03-19,Texas Tech,Nevada,66,54,120,12,False
+2003-03-19,Virginia,Brown,89,73,162,16,False
+2003-03-19,Western Michigan,UIC,63,62,125,1,False
+2003-03-20,Arizona,Vermont,80,51,131,29,False
+2003-03-20,Oklahoma,South Carolina State,71,54,125,17,False
+2003-03-20,Kansas,Utah State,64,61,125,3,False
+2003-03-20,Colorado State,Duke,57,67,124,-10,False
+2003-03-20,Holy Cross,Marquette,68,72,140,-4,False
+2003-03-20,Dayton,Tulsa,71,84,155,-13,False
+2003-03-20,Illinois,Western Kentucky,65,60,125,5,False
+2003-03-20,San Diego,Stanford,69,77,146,-8,False
+2003-03-20,BYU,UConn,53,58,111,-5,False
+2003-03-20,Milwaukee,Notre Dame,69,70,139,-1,False
+2003-03-20,Weber State,Wisconsin,74,81,155,-7,False
+2003-03-20,Central Michigan,Creighton,79,73,152,6,False
+2003-03-20,Missouri,Southern Illinois,72,71,143,1,False
+2003-03-20,Arizona State,Memphis,84,71,155,13,False
+2003-03-20,California,NC State,76,74,150,2,False
+2003-03-20,Cincinnati,Gonzaga,69,74,143,-5,False
+2003-03-20,Wyoming,Eastern Washington,78,71,149,7,False
+2003-03-21,IU Indianapolis,Kentucky,64,95,159,-31,False
+2003-03-21,UNC Asheville,Texas,61,82,143,-21,False
+2003-03-21,ETSU,Wake Forest,73,76,149,-3,False
+2003-03-21,Florida,Sam Houston,85,55,140,30,False
+2003-03-21,Pitt,Wagner,87,61,148,26,False
+2003-03-21,Manhattan,Syracuse,65,76,141,-11,False
+2003-03-21,Troy,Xavier,59,71,130,-12,False
+2003-03-21,Austin Peay,Louisville,64,86,150,-22,False
+2003-03-21,Butler,Mississippi State,47,46,93,1,False
+2003-03-21,Maryland,UNC Wilmington,75,73,148,2,False
+2003-03-21,Oklahoma State,Penn,77,63,140,14,False
+2003-03-21,Alabama,Indiana,62,67,129,-5,False
+2003-03-21,Auburn,St. Joseph's,65,63,128,2,False
+2003-03-21,Colorado,Michigan State,64,79,143,-15,False
+2003-03-21,LSU,Purdue,56,80,136,-24,False
+2003-03-21,Oregon,Utah,58,60,118,-2,False
+2003-03-21,Iowa State,Iowa,53,54,107,-1,False
+2003-03-21,Temple,Boston College,75,62,137,13,False
+2003-03-21,Texas Tech,San Diego State,57,48,105,9,False
+2003-03-22,Arizona,Gonzaga,96,95,191,1,False
+2003-03-22,California,Oklahoma,65,74,139,-9,False
+2003-03-22,Arizona State,Kansas,76,108,184,-32,False
+2003-03-22,Central Michigan,Duke,60,86,146,-26,False
+2003-03-22,Marquette,Missouri,101,92,193,9,False
+2003-03-22,UConn,Stanford,85,74,159,11,False
+2003-03-22,Illinois,Notre Dame,60,68,128,-8,False
+2003-03-22,Tulsa,Wisconsin,60,61,121,-1,False
+2003-03-22,Providence,College of Charleston,69,64,133,5,False
+2003-03-23,Kentucky,Utah,74,54,128,20,False
+2003-03-23,Purdue,Texas,67,77,144,-10,False
+2003-03-23,Auburn,Wake Forest,68,62,130,6,False
+2003-03-23,Florida,Michigan State,46,68,114,-22,False
+2003-03-23,Indiana,Pitt,52,74,126,-22,False
+2003-03-23,Maryland,Xavier,77,64,141,13,False
+2003-03-23,Oklahoma State,Syracuse,56,68,124,-12,False
+2003-03-23,Butler,Louisville,79,71,150,8,False
+2003-03-23,Siena,Western Michigan,68,62,130,6,False
+2003-03-24,Iowa,Georgia Tech,78,79,157,-1,False
+2003-03-24,Minnesota,Hawaii,84,70,154,14,False
+2003-03-24,UNC,Wyoming,90,74,164,16,False
+2003-03-24,Providence,Georgetown,58,67,125,-9,False
+2003-03-24,St. John's (NY),Virginia,73,63,136,10,False
+2003-03-25,Rhode Island,Temple,53,61,114,-8,False
+2003-03-25,Siena,UAB,71,80,151,-9,False
+2003-03-26,UNC,Georgetown,74,79,153,-5,False
+2003-03-26,Texas Tech,Georgia Tech,80,72,152,8,False
+2003-03-27,Arizona,Notre Dame,88,71,159,17,False
+2003-03-27,Kentucky,Wisconsin,63,57,120,6,False
+2003-03-27,Duke,Kansas,65,69,134,-4,False
+2003-03-27,Marquette,Pitt,77,74,151,3,False
+2003-03-27,St. John's (NY),UAB,79,71,150,8,False
+2003-03-27,Temple,Minnesota,58,63,121,-5,False
+2003-03-28,Butler,Oklahoma,54,65,119,-11,False
+2003-03-28,UConn,Texas,78,82,160,-4,False
+2003-03-28,Auburn,Syracuse,78,79,157,-1,False
+2003-03-28,Maryland,Michigan State,58,60,118,-2,False
+2003-03-29,Arizona,Kansas,75,78,153,-3,False
+2003-03-29,Kentucky,Marquette,69,83,152,-14,False
+2003-03-30,Michigan State,Texas,76,85,161,-9,False
+2003-03-30,Oklahoma,Syracuse,47,63,110,-16,False
+2003-04-01,Minnesota,Georgetown,74,88,162,-14,False
+2003-04-01,Texas Tech,St. John's (NY),63,64,127,-1,False
+2003-04-03,Georgetown,St. John's (NY),67,70,137,-3,False
+2003-04-03,Minnesota,Texas Tech,61,71,132,-10,False
+2003-04-05,Syracuse,Texas,95,84,179,11,False
+2003-04-05,Kansas,Marquette,94,61,155,33,False
+2003-04-07,Kansas,Syracuse,78,81,159,-3,False
+2003-11-13,Memphis,Wake Forest,76,85,161,-9,False
+2003-11-13,St. John's (NY),Marquette,45,52,97,-7,False
+2003-11-14,Gonzaga,St. Joseph's,66,73,139,-7,False
+2003-11-14,Alabama,Pitt,62,71,133,-9,False
+2003-11-15,UC-Irvine,UIC,65,77,142,-12,False
+2003-11-15,Ohio,Mercer,64,67,131,-3,False
+2003-11-15,San Diego,Oakland,68,93,161,-25,False
+2003-11-15,Xavier,Coppin State,62,37,99,25,False
+2003-11-16,Coppin State,Ohio,47,51,98,-4,False
+2003-11-16,UIC,Oakland,66,79,145,-13,False
+2003-11-16,New Hampshire,Mount St. Mary's,94,68,162,26,False
+2003-11-16,San Diego,UC-Irvine,60,65,125,-5,False
+2003-11-16,Xavier,Mercer,72,58,130,14,False
+2003-11-17,UConn,Yale,70,60,130,10,False
+2003-11-17,Texas,Brown,89,51,140,38,False
+2003-11-17,Auburn,College of Charleston,66,62,128,4,False
+2003-11-17,UC-Irvine,Ohio,63,60,123,3,False
+2003-11-17,Coppin State,San Diego,76,62,138,14,False
+2003-11-17,Elon,Idaho,60,84,144,-24,False
+2003-11-17,Mercer,UIC,64,75,139,-11,False
+2003-11-17,Minnesota,Kansas City,78,67,145,11,False
+2003-11-17,Missouri State,Western Illinois,82,71,153,11,False
+2003-11-17,Nevada,Vermont,69,49,118,20,False
+2003-11-17,Richmond,Mississippi Valley State,62,46,108,16,False
+2003-11-17,South Carolina,Gardner-Webb,83,74,157,9,False
+2003-11-17,UT-Martin,San Francisco,62,73,135,-11,False
+2003-11-17,Utah,Georgia State,46,38,84,8,False
+2003-11-17,Xavier,Oakland,76,66,142,10,False
